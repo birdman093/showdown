@@ -1,0 +1,740 @@
+SetNumber,Set,Name,Team,Pts,Yr,OB_C,Spd_IP,Pos,H,PU,SO,GB,FB,W,S,SPlus,DB,TR,HR
+126,1st,*Ben Weber,Angels,100,'01,2,1,Reliever,R,1-3,4-7,8-13,14-17,-,18-19,-,20-,-,-
+114,1st,*Benji Gil,Angels,130,'01,7,A,SS+3,R,-,1-2,3-4,-,5-10,11-16,17-,18-19,-,20+
+98,1st,*Lou Pote,Angels,200,'01,3,1,Reliever,R,1-2,3-7,8-14,15-17,-,18-20,-,-,-,-
+171,1st,*Mike Holtz,Angels,150,'01,4,1,Reliever,L,1-2,3-7,8-12,13-15,16-17,18-20,-,-,-,-
+170,1st,*Ramon Ortiz,Angels,250,'01,1,6,Starter,R,1-3,4-7,8-14,15-17,18-19,20-,-,-,-,-
+6,1st,Adam Kennedy,Angels,110,'01,6,A,2B+3,L,-,-,1-,2-3,-,4-12,13-14,15-17,18-19,20+
+7,1st,Al Levine,Angels,210,'01,4,2,Reliever,R,1-2,3-4,5-11,12-15,16-17,18-19,-,20-,-,-
+8,1st,Ben Molina,Angels,140,'01,7,C,C+7,R,-,-,1-2,3-4,5-,6-16,-,17-18,-,19-20
+2,1st,Darin Erstad,Angels,510,'01,10,A,LF-RF+2,L,-,-,1-3,4-,5-6,7-15,16-,17-18,-,19-20
+2,UL,Darin Erstad,Angels,510,'01,10,A,LF-RF+2,L,-,-,1-3,4-,5-6,7-15,16-,17-18,-,19-20
+1,1st,Garret Anderson,Angels,230,'01,7,B,"CF+2, LF-RF+1",L,-,-,1-3,4-5,-,6-12,13-,14-16,-,17-20
+15,1st,Jarrod Washburn,Angels,430,'01,5,6,Starter,L,1-3,4-6,7-10,11-15,16-17,18-19,-,20-,-,-
+10,1st,Mark Petkovsek,Angels,180,'01,4,1,Reliever,R,1-2,3-4,5-13,14-16,-,17-19,-,20-,-,-
+14,1st,Mo Vaughn,Angels,260,'01,8,C,1B+0,L,-,1-3,-,-,4-9,10-15,-,16-,-,17-20
+3,1st,Ron Gant,Angels,270,'01,8,B,LF-RF+1,R,-,1-3,4-,5-,6-11,12-15,-,16-,-,17-20
+12,1st,Scott Schoeneweis,Angels,380,'01,4,6,Starter,L,1-2,3-5,6-13,14-15,16-,17-19,-,20-,-,-
+13,1st,Scott Spiezio,Angels,250,'01,8,B,---,S,-,1-2,3-,4-5,6-11,12-15,-,16-,-,17-20
+5,1st,Shigetoshi Hasegawa,Angels,130,'01,2,1,Reliever,R,1-3,4-7,8-13,14-17,18-,19-20,-,-,-,-
+11,1st,Tim Salmon,Angels,340,'01,9,C,LF-RF+1,R,-,1-2,-,3-,4-10,11-15,-,16-17,-,18-20
+4,1st,Troy Glaus,Angels,440,'01,9,B,3B+2,R,-,1-3,-,-,4-11,12-13,14-,15-16,-,17-20
+4,UL,Troy Glaus,Angels,440,'01,9,B,3B+2,R,-,1-3,-,-,4-11,12-13,14-,15-16,-,17-20
+9,1st,Troy Percival,Angels,120,'01,2,1,Closer,R,1-2,3-8,9-11,12-17,18-19,20-,-,-,-,-
+12,1st,*Billy Wagner,Astros,160,'01,4,1,Closer,L,1-3,4-10,11-13,14-16,17-18,19-,-,20-,-,-
+149,1st,*Brad Ausmus,Astros,200,'01,8,B,"C+8, 1B+0",R,-,-,1-2,3-,4-10,11-16,17-,18-19,-,20+
+150,1st,*Jay Powell,Astros,110,'01,4,1,Reliever,R,1-2,3-6,7-11,12-15,16-17,18-19,-,20-,-,-
+154,1st,*Nelson Cruz,Astros,10,'01,1,1,Reliever,R,1-3,4-7,8-13,14-17,18-,19-,-,-,-,20+
+32,1st,*Octavio Dotel,Astros,200,'01,6,6,Starter,R,1-3,4-8,9-10,11-14,15-16,17-18,-,19-,-,20+
+146,1st,*Shane Reynolds,Astros,190,'01,1,6,Starter,R,1-2,3-6,7-14,15-17,-,18-19,-,20-,-,-
+21,1st,*Wade Miller,Astros,220,'01,1,07,Starter,R,1-2,3-7,8-14,15-17,18-,19-,-,20-,-,-
+198,1st,Bill Spiers,Astros,210,'01,9,B,"2B-SS+3, 3B+2",L,-,-,1-4,5-,6-10,11-18,19-,20-,-,-
+194,1st,Chris Holt,Astros,210,'01,1,6,Starter,R,1-2,3-5,6-13,14-17,-,18-19,-,20-,-,-
+188,1st,Craig Biggio,Astros,260,'01,9,B,2B+3,R,-,1-,2-3,-,4-11,12-17,18-,-,19-,20+
+199,1st,Daryle Ward,Astros,200,'01,6,C,"LF-RF+1, 1B+0",L,-,1-3,-,4-5,-,6-10,-,11-12,13-,14-20
+186,1st,Jeff Bagwell,Astros,560,'01,10,B,1B+0,R,-,1-2,-,3-,4-10,11-14,-,15-16,-,17-20
+186,UL,Jeff Bagwell,Astros,560,'01,10,B,1B,R,-,1-2,-,3-,4-10,11-14,-,15-16,-,17-20
+190,1st,Jose Cabrera,Astros,40,'01,5,1,Reliever,R,1-2,3-5,6-9,10-14,15-,16-18,-,19-20,-,-
+195,1st,Jose Lima,Astros,30,'01,2,6,Starter,R,1-3,4-6,7-11,12-16,-,17-18,-,19-,-,20+
+196,1st,Julio Lugo,Astros,240,'01,8,A,2B-SS+2,R,-,1-2,3-,4-,5-8,9-14,15-16,17-18,19-,20+
+187,1st,Lance Berkman,Astros,400,'01,9,B,LF-RF+1,S,-,1-2,3-,-,4-10,11-14,15-,16-17,-,18-20
+197,1st,Mitch Meluskey,Astros,290,'01,9,C,C+3,S,-,1-3,-,4-,5-10,11-17,-,18-,-,19-20
+185,1st,Moises Alou,Astros,510,'01,10,B,LF-RF+1,R,-,-,1-,2-4,5-7,8-15,-,16-17,-,18-20
+191,1st,Octavio Dotel,Astros,30,'01,6,1,Closer,R,1-3,4-8,9-10,11-14,15-16,17-18,-,19-,-,20+
+193,1st,Richard Hidalgo,Astros,500,'01,9,B,"CF+3, LF-RF+2",R,-,1-2,-,3-,4-8,9-12,13-,14-16,-,17-20
+193,P,Richard Hidalgo,Astros,500,'01,9,B,"CF+3, LF-RF+2",R,-,1-2,-,3-,4-8,9-12,13-,14-16,-,17-20
+192,1st,Scott Elarton,Astros,140,'01,1,6,Starter,R,1-4,5-7,8-12,13-17,18-,19-,-,20-,-,-
+192,AP,Scott Elarton,Astros,140,'01,1,6,Starter,R,1-4,5-7,8-12,13-17,18-,19-,-,20-,-,-
+192,UL,Scott Elarton,Astros,140,'01,1,6,Starter,R,1-4,5-7,8-12,13-17,18-,19-,-,20-,-,-
+189,1st,Tim Bogar,Astros,20,'01,5,B,SS+4,R,-,-,1-,2-,3-9,10-17,-,-,18-,19-20
+6,1st,*Adam Piatt,Athletics,170,'01,8,B,LF-RF+0,R,-,1-4,-,5-,6-10,11-17,-,-,18-,19-20
+5,1st,*Barry Zito,Athletics,560,'01,6,07,Starter,L,1-3,4-7,8-11,12-15,16-17,18-19,-,20-,-,-
+119,1st,*Johnny Damon,Athletics,340,'01,9,A,"CF+2, LF-RF+1",L,-,-,1-2,3-4,5-8,9-14,15-16,17-18,19-,20+
+88,1st,*Jose Ortiz,Athletics,230,'01,8,B,2B+2,R,-,1-,-,2-4,5-7,8-15,16-,17-18,-,19-20
+53,1st,*Mark Guthrie,Athletics,140,'01,3,1,Reliever,L,1-3,4-8,9-13,14-16,17-,18-20,-,-,-,-
+161,1st,*Olmedo Saenz,Athletics,220,'01,9,C,---,R,-,1-2,3-4,-,5-10,11-16,-,17-18,-,19-20
+312,1st,Ben Grieve,Athletics,270,'01,8,B,LF-RF+1,L,-,1-2,3-,-,4-8,9-14,-,15-17,-,18-20
+308,1st,Eric Chavez,Athletics,260,'01,8,B,3B+1,L,-,1-,2-,3-4,5-8,9-15,-,16-,17-,18-20
+313,1st,Gil Heredia,Athletics,340,'01,2,6,Starter,R,1-2,3-5,6-13,14-17,-,18-19,-,20-,-,-
+310,1st,Jason Giambi,Athletics,570,'01,11,C,1B+0,L,-,1-,-,2-,3-11,12-16,-,17-,-,18-20
+310,P,Jason Giambi,Athletics,570,'01,11,C,1B,L,-,1-,-,2-,3-11,12-16,-,17-,-,18-20
+310,UL,Jason Giambi,Athletics,570,'01,11,C,1B,L,-,1-,-,2-,3-11,12-16,-,17-,-,18-20
+316,1st,Jason Isringhausen,Athletics,230,'01,6,1,Closer,R,1-3,4-7,8-12,13-14,15-16,17-20,-,-,-,-
+311,1st,Jeremy Giambi,Athletics,200,'01,8,B,LF-RF+1,L,-,1-3,-,4-,5-10,11-16,-,17-,18-,19-20
+318,1st,Jim Mecir,Athletics,210,'01,4,1,Reliever,R,1-2,3-7,8-13,14-16,17-18,19-20,-,-,-,-
+307,1st,Kevin Appier,Athletics,310,'01,2,6,Starter,R,1-4,5-8,9-13,14-17,18-,19-,-,20-,-,-
+319,1st,Mark Mulder,Athletics,240,'01,3,6,Starter,L,1-2,3-5,6-12,13-15,16-,17-19,-,20-,-,-
+320,1st,Matt Stairs,Athletics,130,'01,7,B,LF-RF+0,L,-,1-2,-,3-,4-12,13-15,-,16-17,-,18-20
+321,1st,Miguel Tejada,Athletics,270,'01,8,B,SS+2,R,-,1-,2-3,4-,5-8,9-15,-,16-17,-,18-20
+314,1st,Ramon Hernandez,Athletics,110,'01,7,C,C+5,R,-,-,1-4,5-,6-9,10-16,-,17-18,-,19-20
+322,1st,Randy Velarde,Athletics,190,'01,8,B,2B+4,R,-,1-2,3-,4-,5-9,10-17,18-,19-,-,20+
+309,1st,Ryan Christenson,Athletics,190,'01,8,B,LF-RF+1,R,-,1-3,4-,-,5-10,11-17,-,-,18-,19-20
+317,1st,Terrence Long,Athletics,210,'01,8,B,"CF+1, LF-RF+0",L,-,-,1-4,5-,6-7,8-15,-,16-17,18-,19-20
+317,UL,Terrence Long,Athletics,210,'01,8,B,"CF+1, LF-RF+0",L,-,-,1-4,5-,6-7,8-15,-,16-17,18-,19-20
+315,1st,Tim Hudson,Athletics,440,'01,3,6,Starter,R,1-2,3-7,8-15,16-17,18-,19-,-,20-,-,-
+315,AP,Tim Hudson,Athletics,440,'01,3,6,Starter,R,1-2,3-7,8-15,16-17,18-,19-,-,20-,-,-
+315,UL,Tim Hudson,Athletics,440,'01,3,6,Starter,R,1-2,3-7,8-15,16-17,18-,19-,-,20-,-,-
+172,1st,*Chris Woodward,Blue Jays,200,'01,7,A,"SS+4, 2B+3",R,-,1-5,-,6-,7-9,10-15,-,16-18,-,19-20
+14,1st,*Homer Bush,Blue Jays,110,'01,7,A,2B+4,R,-,1-,2-4,-,5-6,7-17,18-19,20-,-,-
+112,1st,*Joey Hamilton,Blue Jays,280,'01,3,5,Starter,R,1-4,5-6,7-12,13-16,17-,18-19,-,20-,-,-
+69,1st,*Lance Painter,Blue Jays,110,'01,3,1,Reliever,L,1-3,4-7,8-13,14-16,17-,18-19,-,20-,-,-
+147,1st,*Vernon Wells,Blue Jays,100,'01,6,A,"CF+2, LF-RF+1",R,-,1-4,5-,-,6-9,10-12,13-14,15-17,18-,19-20
+454,1st,Alex S. Gonzalez,Blue Jays,130,'01,7,B,SS+2,R,-,1-3,4-5,-,6-8,9-15,-,16-18,-,19-20
+456,1st,Billy Koch,Blue Jays,250,'01,5,1,Closer,R,1-3,4-7,8-13,14-16,-,17-19,-,20-,-,-
+453,1st,Brad Fullmer,Blue Jays,270,'01,8,B,---,L,-,-,1-2,3-5,6-7,8-13,-,14-16,-,17-20
+450,1st,Carlos Delgado,Blue Jays,610,'01,11,C,1B+0,L,-,1-,2-3,-,4-10,11-14,-,15-17,-,18-20
+450,P,Carlos Delgado,Blue Jays,610,'01,11,C,1B,L,-,1-,2-3,-,4-10,11-14,-,15-17,-,18-20
+450,UL,Carlos Delgado,Blue Jays,610,'01,11,C,1B,L,-,1-,2-3,-,4-10,11-14,-,15-17,-,18-20
+452,1st,Darrin Fletcher,Blue Jays,250,'01,8,C,C+3,L,-,-,1-3,4-,-,5-15,-,16-17,-,18-20
+462,1st,David Wells,Blue Jays,460,'01,5,07,Starter,L,1-2,3-6,7-11,12-15,-,16-19,-,20-,-,-
+462,AP,David Wells,Blue Jays,460,'01,5,07,Starter,L,1-2,3-6,7-11,12-15,-,16-19,-,20-,-,-
+462,UL,David Wells,Blue Jays,460,'01,5,07,Starter,L,1-2,3-6,7-11,12-15,-,16-19,-,20-,-,-
+457,1st,Esteban Loaiza,Blue Jays,320,'01,2,6,Starter,R,1-3,4-7,8-13,14-17,-,18-19,-,20-,-,-
+449,1st,Jose Cruz Jr.,Blue Jays,270,'01,7,A,OF+1,S,-,1-2,3-,4-,5-9,10-12,13-,14-15,16-,17-20
+451,1st,Kelvim Escobar,Blue Jays,340,'01,2,07,Starter,R,1-3,4-8,9-13,14-17,18-,19-,-,20-,-,-
+455,1st,Mark Guthrie,Blue Jays,140,'01,3,1,Reliever,L,1-3,4-8,9-13,14-16,17-,18-20,-,-,-,-
+459,1st,Mickey Morandini,Blue Jays,80,'01,7,B,2B+3,L,-,1-,2-,3-4,5-7,8-17,18-,19-,20-,-
+460,1st,Paul Quantrill,Blue Jays,100,'01,2,1,Reliever,R,1-3,4-6,7-13,14-17,-,18-19,-,20-,-,-
+458,1st,Raul Mondesi,Blue Jays,280,'01,7,A,LF-RF+1,R,-,1-,2-3,-,4-7,8-10,11-13,14-15,-,16-20
+461,1st,Shannon Stewart,Blue Jays,370,'01,9,A,LF-RF+1,R,-,1-,2-4,5-,6-7,8-14,15-,16-18,-,19-20
+448,1st,Tony Batista,Blue Jays,290,'01,7,B,3B+2,R,-,1-3,4-,5-,6-,7-12,-,13-14,-,15-20
+448,UL,Tony Batista,Blue Jays,290,'01,7,B,3B+2,R,-,1-3,4-,5-,6-,7-12,-,13-14,-,15-20
+141,1st,*Dave Martinez,Braves,110,'01,8,B,LF-RF+1,L,-,1-,2-,3-4,5-8,9-17,18-,19-,20-,-
+125,1st,*John Smoltz,Braves,440,'01,3,6,Starter,R,1-2,3-7,8-13,14-17,-,18-19,-,20-,-,-
+104,1st,*Marcus Giles,Braves,150,'01,7,A,2B+2,R,-,1-3,4-,5-,6-11,12-15,16-,17-18,-,19-20
+68,1st,*Odalis Perez,Braves,150,'01,3,5,Starter,L,1-2,3-7,8-13,14-15,16-17,18-19,-,20-,-,-
+75,1st,*Rico Brogna,Braves,100,'01,7,B,1B+0,L,-,1-3,4-5,-,6-7,8-15,-,16-18,-,19-20
+84,1st,*Wes Helms,Braves,60,'01,6,C,"3B+1, 1B+0",R,-,1-4,-,5-,-,6-15,-,16-,17-,18-20
+34,1st,Andres Galarraga,Braves,300,'01,8,B,1B+0,R,-,1-2,3-,-,4-6,7-14,-,15-16,-,17-20
+36,1st,Andruw Jones,Braves,450,'01,9,A,"CF+2, LF-RF+1",R,-,1-,2-4,5-,6-8,9-13,14-,15-16,17-,18-20
+31,1st,Andy Ashby,Braves,340,'01,2,6,Starter,R,1-2,3-5,6-13,14-17,-,18-19,-,20-,-,-
+46,1st,B.J. Surhoff,Braves,220,'01,8,B,LF-RF+1,L,-,-,1-2,3-5,6-7,8-14,15-,16-18,-,19-20
+32,1st,Bobby Bonilla,Braves,140,'01,8,C,LF-RF+0,S,-,1-2,-,3-5,6-11,12-16,-,17-18,19-,20+
+38,1st,Brian Jordan,Braves,180,'01,7,B,LF-RF+2,R,-,-,1-2,3-4,5-7,8-14,15-,16-17,-,18-20
+37,1st,Chipper Jones,Braves,400,'01,9,B,3B+1,S,-,-,1-2,3-,4-9,10-14,15-,16-17,-,18-20
+37,UL,Chipper Jones,Braves,400,'01,9,B,3B+1,S,-,-,1-2,3-,4-9,10-14,15-,16-17,-,18-20
+42,1st,Greg Maddux,Braves,590,'01,6,07,Starter,R,1-2,3-6,7-13,14-15,16-,17-19,-,20-,-,-
+42,AP,Greg Maddux,Braves,590,'01,6,07,Starter,R,1-2,3-6,7-13,14-15,16-,17-19,-,20-,-,-
+42,UL,Greg Maddux,Braves,590,'01,6,07,Starter,R,1-2,3-6,7-13,14-15,16-,17-19,-,20-,-,-
+41,1st,Javy Lopez,Braves,240,'01,8,C,C+4,R,-,1-,2-4,5-,6-7,8-15,-,16-17,-,18-20
+45,1st,John Rocker,Braves,130,'01,3,1,Closer,L,1-3,4-11,12-13,14-16,17-19,20-,-,-,-,-
+40,1st,Keith Lockhart,Braves,70,'01,7,B,2B+3,L,-,-,1-3,4-5,6-8,9-17,18-,19-,20-,-
+43,1st,Kevin Millwood,Braves,410,'01,3,6,Starter,R,1-3,4-7,8-11,12-17,-,18-19,-,20-,-,-
+44,1st,Mike Remlinger,Braves,200,'01,3,1,Reliever,L,1-2,3-8,9-14,15-17,18-19,20-,-,-,-,-
+47,1st,Quilvio Veras,Braves,320,'01,9,A,2B+2,S,-,1-,2-3,-,4-10,11-16,17-18,19-,-,20+
+33,1st,Rafael Furcal,Braves,250,'01,9,A,SS+1,S,-,1-,2-3,-,4-10,11-16,17-19,20-,-,-
+33,UL,Rafael Furcal,Braves,250,'01,9,A,SS+1,S,-,1-,2-3,-,4-10,11-16,17-19,20-,-,-
+35,1st,Tom Glavine,Braves,480,'01,3,07,Starter,L,1-3,4-6,7-13,14-17,-,18-19,-,20-,-,-
+35,UL,Tom Glavine,Braves,480,'01,3,07,Starter,L,1-3,4-6,7-13,14-17,-,18-19,-,20-,-,-
+39,1st,Wally Joyner,Braves,100,'01,8,C,1B+0,L,-,-,-,1-4,5-9,10-18,-,19-,-,20+
+87,1st,*Ben Sheets,Brewers,290,'01,5,5,Starter,R,1-3,4-6,7-11,12-14,15-16,17-19,-,20-,-,-
+74,1st,*Jamey Wright,Brewers,350,'01,3,07,Starter,R,1-2,3-5,6-12,13-15,16-18,19-20,-,-,-,-
+156,1st,*Luis Lopez,Brewers,180,'01,7,B,"2B+3, SS+2",S,-,1-3,4-,5-,6-8,9-15,-,16-18,-,19-20
+44,1st,*Paul Rigdon,Brewers,290,'01,4,5,Starter,R,1-3,4-6,7-11,12-16,17-,18-19,-,-,-,20+
+117,1st,*Ray King,Brewers,210,'01,3,1,Reliever,L,1-3,4-7,8-14,15-17,18-19,20-,-,-,-,-
+153,1st,*Tyler Houston,Brewers,240,'01,6,B,"C+4, 3B+3",L,-,1-3,4-,5-,-,6-10,-,11-13,-,14-20
+237,1st,Charlie Hayes,Brewers,90,'01,7,C,"3B+2, 1B+0",R,-,1-2,-,3-,4-10,11-18,-,-,-,19-20
+241,1st,Curtis Leskanic,Brewers,160,'01,6,1,Reliever,R,1-2,3-6,7-11,12-14,15-17,18-19,-,20-,-,-
+244,1st,Dave Weathers,Brewers,180,'01,5,1,Reliever,R,1-2,3-5,6-11,12-15,16-,17-19,-,20-,-,-
+240,1st,Geoff Jenkins,Brewers,380,'01,8,A,LF-RF+1,L,-,1-3,4-,-,5-6,7-11,12-,13-15,16-,17-20
+232,1st,Henry Blanco,Brewers,160,'01,7,C,C+11,R,-,1-3,-,4-6,7-10,11-15,-,16-18,-,19-20
+234,1st,Jeff D'Amico,Brewers,530,'01,3,07,Starter,R,1-3,4-6,7-12,13-17,18-,19-20,-,-,-,-
+234,AP,Jeff D'Amico,Brewers,530,'01,3,07,Starter,R,1-3,4-6,7-12,13-17,18-,19-20,-,-,-,-
+234,UL,Jeff D'Amico,Brewers,530,'01,3,07,Starter,R,1-3,4-6,7-12,13-17,18-,19-20,-,-,-,-
+233,1st,Jeromy Burnitz,Brewers,240,'01,8,B,LF-RF+1,L,-,1-2,3-,4-,5-12,13-15,-,16-17,-,18-20
+238,1st,Jimmy Haynes,Brewers,230,'01,4,6,Starter,R,1-3,4-5,6-11,12-14,15-16,17-19,-,20-,-,-
+239,1st,Jose Hernandez,Brewers,140,'01,7,B,"SS+3, 3B+1",R,-,1-3,4-5,-,6-9,10-16,-,17-18,-,19-20
+230,1st,Juan Acevedo,Brewers,90,'01,2,1,Reliever,R,1-4,5-8,9-13,14-17,-,18-19,-,20-,-,-
+242,1st,Mark Loretta,Brewers,150,'01,7,C,SS+5,R,-,-,1-3,-,4-7,8-16,-,17-19,-,20+
+236,1st,Marquis Grissom,Brewers,90,'01,6,A,"CF+2, LF-RF+1",R,-,1-,2-3,4-,5-,6-15,16-17,-,18-,19-20
+243,1st,Richie Sexson,Brewers,300,'01,8,B,"1B+1, LF-RF+1",R,-,1-4,-,-,5-9,10-14,-,15-16,-,17-20
+231,1st,Ron Belliard,Brewers,190,'01,8,B,2B+3,R,-,-,1-3,4-,5-10,11-16,-,17-18,19-,20+
+235,1st,Valerio de los Santos,Brewers,100,'01,4,1,Reliever,L,1-4,5-9,10-13,14-16,17-,18-19,-,-,-,20+
+168,1st,*Albert Pujols,Cardinals,100,'01,6,B,"3B+2, LF-RF+1",R,-,-,1-2,3-4,5-6,7-14,-,15-16,17-,18-20
+65,1st,*Andy Benes,Cardinals,160,'01,3,6,Starter,R,1-2,3-6,7-11,12-16,17-,18-,-,19-,-,20+
+2,1st,*Dustin Hermanson,Cardinals,190,'01,1,6,Starter,R,1-3,4-5,6-12,13-17,18-,19-,-,20-,-,-
+25,1st,*Jason Christansen,Cardinals,160,'01,5,1,Reliever,L,1-2,3-8,9-12,13-15,16-17,18-19,-,20-,-,-
+120,1st,*Matt Morris,Cardinals,410,'01,5,5,Starter,R,1-3,4-6,7-12,13-15,16-,17-19,-,20-,-,-
+134,1st,*Steve Kline,Cardinals,110,'01,4,1,Reliever,L,1-2,3-6,7-12,13-15,16-,17-19,-,20-,-,-
+410,1st,Craig Paquette,Cardinals,120,'01,6,B,"3B+1, LF-RF+1",R,-,1-3,-,4-5,6-7,8-12,-,13-15,16-,17-20
+406,1st,Darryl Kile,Cardinals,460,'01,4,07,Starter,R,1-3,4-7,8-12,13-16,17-,18-19,-,20-,-,-
+406,AP,Darryl Kile,Cardinals,460,'01,4,07,Starter,R,1-3,4-7,8-12,13-16,17-,18-19,-,20-,-,-
+416,1st,Dave Veres,Cardinals,190,'01,5,1,Closer,R,1-2,3-7,8-13,14-15,16-17,18-19,-,20-,-,-
+412,1st,Edgar Renteria,Cardinals,270,'01,8,A,SS+3,R,-,-,1-3,4-,5-8,9-15,16-,17-18,-,19-20
+414,1st,Fernando Tatis,Cardinals,260,'01,8,B,3B+2,R,-,1-2,-,3-,4-12,13-15,-,16-17,-,18-20
+417,1st,Fernando Vina,Cardinals,240,'01,9,B,2B+4,L,-,-,1-2,3-4,5-9,10-17,18-,19-,20-,-
+413,1st,Garret Stephenson,Cardinals,260,'01,4,6,Starter,R,1-3,4-6,7-11,12-15,16-,17-18,-,19-20,-,-
+403,1st,J. D. Drew,Cardinals,340,'01,9,A,LF-RF+1,L,-,1-3,-,-,4-10,11-16,17-,18-,-,19-20
+407,P,J. D. Drew,Cardinals,310,'01,8,A,OF+1,L,-,1-,2-,3-5,6-12,13-14,15-16,17-,18-,19-20
+404,1st,Jim Edmonds,Cardinals,560,'01,10,B,"CF+2, LF-RF+1",L,-,1-3,-,4-,5-11,12-15,-,16-,-,17-20
+404,UL,Jim Edmonds,Cardinals,560,'01,10,B,"CF+2, LF-RF+1",L,-,1-3,-,4-,5-11,12-15,-,16-,-,17-20
+409,1st,Mark McGwire,Cardinals,580,'01,10,C,1B+0,R,-,1-2,-,-,3-12,13-14,-,15-,-,16-20
+409,UL,Mark McGwire,Cardinals,580,'01,10,C,1B,R,-,1-2,-,-,3-12,13-14,-,15-,-,16-20
+408,1st,Mike Matheny,Cardinals,110,'01,7,C,C+10,R,-,1-3,4-5,-,6-7,8-17,-,18-19,-,20+
+415,1st,Mike Timlin,Cardinals,140,'01,2,1,Reliever,R,1-2,3-7,8-14,15-17,18-,19-20,-,-,-,-
+405,1st,Pat Hentgen,Cardinals,210,'01,2,6,Starter,R,1-4,5-7,8-13,14-16,17-,18-19,-,20-,-,-
+411,1st,Placido Polanco,Cardinals,220,'01,8,B,"2B+4, SS+3",R,-,-,1-4,5-,-,6-17,-,18-,19-,20+
+407,1st,Ray Lankford,Cardinals,350,'01,9,B,LF-RF+1,L,-,1-5,-,-,6-12,13-15,-,16-,17-,18-20
+401,1st,Rick Ankiel,Cardinals,340,'01,2,6,Starter,L,1-3,4-10,11-14,15-17,18-19,20-,-,-,-,-
+401,UL,Rick Ankiel,Cardinals,340,'01,2,6,Starter,L,1-3,4-10,11-14,15-17,18-19,20-,-,-,-,-
+402,1st,Will Clark,Cardinals,400,'01,10,B,1B+0,L,-,1-,2-,3-4,5-10,11-16,-,17-18,-,19-20
+115,1st,*Bill Mueller,Cubs,170,'01,8,B,3B+2,S,-,-,1-3,4-5,6-9,10-17,-,18-19,-,20+
+57,1st,*Corey Patterson,Cubs,100,'01,5,A,"CF+2, LF-RF+1",R,-,1-3,-,-,4-7,8-9,10-12,13-14,15-,16-20
+111,1st,*Julian Tavarez,Cubs,500,'01,6,07,Starter,R,1-2,3-4,5-12,13-14,15-16,17-19,-,20-,-,-
+100,1st,*Julio Zuleta,Cubs,180,'01,7,B,1B+0,R,-,1-5,-,6-,7-,8-13,-,14-16,-,17-20
+38,1st,*Roosevelt Brown,Cubs,120,'01,7,B,LF-RF+0,L,-,1-2,-,3-,4-6,7-14,15-,16-18,-,19-20
+151,1st,*Todd Hundley,Cubs,330,'01,8,C,"C+2, 1B+0",S,-,1-4,-,5-,6-10,11-14,-,15-,-,16-20
+37,1st,*Tom Gordon,Cubs,300,'01,6,1,Closer,R,1-,2-7,8-13,14-16,17-,18-19,-,20-,-,-
+79,1st,Damon Buford,Cubs,100,'01,7,B,OF+1,R,-,1-3,4-,-,5-9,10-17,-,18-,-,19-20
+92,1st,Eric Young,Cubs,320,'01,9,A,2B+3,R,-,-,1-4,5-,6-9,10-14,15-17,18-19,-,20+
+84,1st,Felix Heredia,Cubs,170,'01,5,1,Reliever,L,1-2,3-7,8-12,13-15,16-17,18-19,-,20-,-,-
+86,1st,Jeff Reed,Cubs,50,'01,7,C,C+6,L,-,1-3,-,-,4-13,14-19,-,-,-,20+
+80,1st,Joe Girardi,Cubs,80,'01,7,C,C+7,R,-,1-,2-4,-,5-7,8-18,-,19-,-,20+
+85,1st,Jon Lieber,Cubs,470,'01,3,07,Starter,R,1-2,3-7,8-14,15-17,-,18-19,-,20-,-,-
+85,AP,Jon Lieber,Cubs,470,'01,3,07,Starter,R,1-2,3-7,8-14,15-17,-,18-19,-,20-,-,-
+91,1st,Kerry Wood,Cubs,190,'01,1,6,Starter,R,1-4,5-10,11-14,15-17,18-20,-,-,-,-,-
+88,1st,Kevin Tapani,Cubs,310,'01,4,07,Starter,R,1-3,4-7,8-13,14-16,-,17-18,-,19-,-,20+
+81,1st,Mark Grace,Cubs,210,'01,9,C,1B+0,L,-,-,1-,2-3,4-10,11-16,-,17-19,-,20+
+78,1st,Rick Aguilera,Cubs,130,'01,4,1,Closer,R,1-3,4-7,8-13,14-16,17-,18-19,-,-,-,20+
+83,1st,Ricky Gutierrez,Cubs,230,'01,9,B,SS+2,R,-,-,1-4,-,5-11,12-17,18-,19-,-,20+
+90,1st,Rondell White,Cubs,230,'01,8,B,LF-RF+2,R,-,1-2,3-,-,4-7,8-15,16-,17-18,-,19-20
+90,P,Rondell White,Cubs,230,'01,8,B,LF-RF+2,R,-,1-2,3-,-,4-7,8-15,16-,17-18,-,19-20
+87,1st,Sammy Sosa,Cubs,490,'01,9,B,LF-RF+0,R,-,1-3,-,-,4-7,8-13,-,14-15,-,16-20
+87,UL,Sammy Sosa,Cubs,490,'01,9,B,LF-RF,R,-,1-3,-,-,4-7,8-13,-,14-15,-,16-20
+89,1st,Todd Van Poppel,Cubs,160,'01,4,2,Reliever,R,1-3,4-8,9-12,13-15,16-17,18-19,-,20-,-,-
+82,1st,Willie Greene,Cubs,110,'01,6,B,3B+3,L,-,1-4,5-6,-,7-12,13-,14-,15-16,17-,18-20
+129,1st,*Aubrey Huff,Devil Rays,200,'01,8,C,3B+1,L,-,1-2,-,3-4,5-8,9-15,-,16-18,-,19-20
+7,1st,*Ben Grieve,Devil Rays,250,'01,8,C,LF-RF+1,L,-,1-2,3-,-,4-8,9-14,-,15-17,-,18-20
+58,1st,*Juan Guzman,Devil Rays,360,'01,4,07,Starter,R,1-4,5-8,9-13,14-16,17-,18-19,-,-,-,20+
+89,1st,*Paul Wilson,Devil Rays,280,'01,3,5,Starter,R,1-3,4-6,7-12,13-16,17-,18-19,-,20-,-,-
+135,1st,*Tanyon Sturtze,Devil Rays,190,'01,4,2,Reliever,R,1-3,4-6,7-12,13-15,16-17,18-19,-,20-,-,-
+128,1st,*Travis Harper,Devil Rays,300,'01,4,6,Starter,R,1-8,9-10,11-13,14-15,16-,17-19,-,20-,-,-
+426,1st,Albie Lopez,Devil Rays,400,'01,3,07,Starter,R,1-2,3-5,6-13,14-16,17-,18-19,-,20-,-,-
+429,1st,Bryan Rekar,Devil Rays,350,'01,3,6,Starter,R,1-3,4-6,7-13,14-16,-,17-19,-,20-,-,-
+421,1st,Doug Creek,Devil Rays,10,'01,2,1,Reliever,L,1-3,4-11,12-13,14-17,18-19,-,-,-,-,20+
+432,1st,Esteban Yan,Devil Rays,40,'01,3,2,Reliever,R,1-2,3-7,8-12,13-16,17-,18-,-,19-,-,20+
+427,1st,Felix Martinez,Devil Rays,90,'01,6,A,SS+4,S,-,1-,2-3,-,4-9,10-16,17-,18-,19-,20+
+428,1st,Fred McGriff,Devil Rays,270,'01,9,C,1B+0,L,-,1-2,3-4,5-,6-10,11-17,-,-,-,18-20
+431,1st,Gerald Williams,Devil Rays,160,'01,7,B,OF+1,R,-,1-,2-4,5-,6-,7-14,15-,16-17,-,18-20
+430,1st,Greg Vaughn,Devil Rays,300,'01,8,B,LF-RF+1,R,-,1-3,-,-,4-11,12-13,14-,15-16,-,17-20
+430,P,Greg Vaughn,Devil Rays,300,'01,8,B,LF-RF+1,R,-,1-3,-,-,4-11,12-13,14-,15-16,-,17-20
+422,1st,John Flaherty,Devil Rays,70,'01,6,C,C+5,R,-,-,1-,2-4,-,5-17,-,-,-,18-20
+423,1st,Jose Guillen,Devil Rays,260,'01,8,B,LF-RF+1,R,-,1-2,3-4,5-,6-9,10-14,-,15-16,17-,18-20
+418,1st,Miguel Cairo,Devil Rays,90,'01,7,A,2B+2,R,-,-,1-3,4-,5-7,8-15,16-18,19-20,-,-
+424,1st,Roberto Hernandez,Devil Rays,120,'01,3,1,Closer,R,1-2,3-7,8-13,14-16,17-,18-19,-,20-,-,-
+424,UL,Roberto Hernandez,Devil Rays,120,'01,3,1,Closer,R,1-2,3-7,8-13,14-16,17-,18-19,-,20-,-,-
+425,1st,Russ Johnson,Devil Rays,90,'01,7,B,"2B+3, 3B+2",R,-,1-,2-,3-4,5-9,10-18,19-,-,-,20+
+420,1st,Steve Cox,Devil Rays,260,'01,9,C,"LF-RF+1, 1B+0",L,-,-,1-3,4-,5-10,11-16,-,17-18,-,19-20
+419,1st,Vinny Castilla,Devil Rays,30,'01,5,B,3B+2,R,-,-,1-3,-,-,4-16,-,-,-,17-20
+97,1st,*Armando Reynoso,Diamondbacks,310,'01,2,6,Starter,R,1-3,4-6,7-12,13-17,-,18-19,-,20-,-,-
+105,1st,*Craig Counsell,Diamondbacks,150,'01,8,B,"SS+3, 2B-3B+2",L,-,1-,2-3,4-5,6-9,10-18,-,19-,20-,-
+86,1st,*Erubiel Durazo,Diamondbacks,320,'01,9,C,"LF-RF+1, 1B+0",L,-,1-2,-,3-,4-10,11-16,-,17-,-,18-20
+76,1st,*Geraldo Guzman,Diamondbacks,270,'01,4,5,Starter,R,1-3,4-7,8-11,12-15,16-17,18-19,-,20-,-,-
+109,1st,*Mark Grace,Diamondbacks,300,'01,10,C,1B+0,L,-,-,1-,2-4,5-11,12-16,-,17-19,-,20+
+16,1st,Brian Anderson,Diamondbacks,310,'01,4,07,Starter,L,1-3,4-5,6-11,12-16,-,17-18,-,19-,-,20+
+23,1st,Byung-Hyun Kim,Diamondbacks,110,'01,2,1,Reliever,R,1-2,3-12,13-15,16-17,18-20,-,-,-,-,-
+26,1st,Curt Schilling,Diamondbacks,450,'01,3,07,Starter,R,1-3,4-8,9-13,14-17,-,18-19,-,20-,-,-
+17,1st,Danny Bautista,Diamondbacks,150,'01,7,B,LF-RF+1,R,-,-,1-3,4-,5-,6-13,14-,15-16,17-18,19-20
+19,1st,Greg Colbrunn,Diamondbacks,270,'01,9,C,1B+0,R,-,-,1-,2-3,4-9,10-16,-,17-18,-,19-20
+28,1st,Greg Swindell,Diamondbacks,210,'01,5,1,Reliever,L,1-2,3-7,8-11,12-16,-,17-19,-,20-,-,-
+18,1st,Jay Bell,Diamondbacks,250,'01,8,B,2B+3,R,-,-,1-,2-4,5-9,10-15,-,16-17,18-,19-20
+27,1st,Kelly Stinnett,Diamondbacks,50,'01,6,C,C+5,R,-,1-4,5-,6-,7-10,11-17,-,-,-,18-20
+21,1st,Luis Gonzalez,Diamondbacks,360,'01,9,C,LF-RF+1,L,-,-,1-,2-3,4-8,9-14,-,15-17,-,18-20
+24,1st,Matt Mantei,Diamondbacks,170,'01,5,1,Closer,R,1-4,5-10,11-12,13-15,16-18,19-,-,20-,-,-
+29,1st,Matt Williams,Diamondbacks,120,'01,7,C,3B+2,R,-,-,1-3,4-5,6-,7-15,-,16-18,-,19-20
+25,1st,Mike Morgan,Diamondbacks,70,'01,1,1,Reliever,R,1-2,3-5,6-14,15-17,-,18-20,-,-,-,-
+22,1st,Randy Johnson,Diamondbacks,440,'01,3,07,Starter,L,1-2,3-10,11-14,15-17,18-,19-,-,20-,-,-
+22,AP,Randy Johnson,Diamondbacks,440,'01,3,07,Starter,L,1-2,3-10,11-14,15-17,18-,19-,-,20-,-,-
+22,UL,Randy Johnson,Diamondbacks,440,'01,3,07,Starter,L,1-2,3-10,11-14,15-17,18-,19-,-,20-,-,-
+20,1st,Steve Finley,Diamondbacks,340,'01,8,B,OF+1,L,-,-,1-,2-3,4-8,9-12,13-,14-15,16-,17-20
+30,1st,Tony Womack,Diamondbacks,110,'01,7,A,SS+2,L,-,-,1-3,4-5,6-,7-14,15-17,18-,19-20,-
+107,1st,*Andy Ashby,Dodgers,340,'01,2,6,Starter,R,1-2,3-5,6-13,14-17,-,18-19,-,20-,-,-
+77,1st,*Eric Gagne,Dodgers,150,'01,3,5,Starter,R,1-3,4-8,9-12,13-16,17-18,19-,-,-,-,20+
+94,1st,*Mike Fetters,Dodgers,230,'01,4,1,Reliever,R,1-,2-6,7-14,15-16,17-18,19-20,-,-,-,-
+90,1st,*Onan Masaoka,Dodgers,60,'01,2,1,Reliever,L,1-6,7-10,11-14,15-16,17-20,-,-,-,-,-
+130,1st,*Paul Lo Duca,Dodgers,100,'01,7,B,C+6,R,-,-,1-3,4-5,6-9,10-16,17-,18-19,-,20+
+216,1st,Adrian Beltre,Dodgers,280,'01,8,B,3B+2,R,-,-,1-,2-3,4-7,8-14,15-,16-17,-,18-20
+218,1st,Alex Cora,Dodgers,50,'01,6,B,SS+2,L,-,-,1-2,3-,4-6,7-14,15-,16-17,18-19,20+
+226,1st,Chad Kreuter,Dodgers,240,'01,9,C,C+7,S,-,1-2,3-,-,4-13,14-18,-,19-,-,20+
+227,1st,Chan Ho Park,Dodgers,470,'01,5,07,Starter,R,1-2,3-7,8-12,13-15,16-17,18-19,-,20-,-,-
+219,1st,Darren Dreifort,Dodgers,270,'01,3,6,Starter,R,1-2,3-7,8-14,15-16,17-18,19-,-,-,-,20+
+223,1st,Dave Hansen,Dodgers,310,'01,9,C,---,L,-,1-2,3-,-,4-11,12-14,-,15-16,17-,18-20
+225,1st,Eric Karros,Dodgers,190,'01,7,B,1B+0,R,-,1-,-,2-3,4-8,9-14,-,15-16,-,17-20
+229,1st,Gary Sheffield,Dodgers,550,'01,10,B,LF-RF+1,R,-,-,1-,2-3,4-10,11-15,-,16-,-,17-20
+229,P,Gary Sheffield,Dodgers,550,'01,10,B,LF-RF+1,R,-,-,1-,2-3,4-10,11-15,-,16-,-,17-20
+229,UL,Gary Sheffield,Dodgers,550,'01,10,B,LF-RF+1,R,-,-,1-,2-3,4-10,11-15,-,16-,-,17-20
+228,1st,Jeff Shaw,Dodgers,170,'01,3,1,Closer,R,1-4,5-8,9-13,14-17,-,18-19,-,20-,-,-
+217,1st,Kevin Brown,Dodgers,570,'01,4,07,Starter,R,1-2,3-7,8-14,15-17,-,18-19,-,20-,-,-
+217,AP,Kevin Brown,Dodgers,570,'01,4,07,Starter,R,1-2,3-7,8-14,15-17,-,18-19,-,20-,-,-
+217,UL,Kevin Brown,Dodgers,570,'01,4,07,Starter,R,1-2,3-7,8-14,15-17,-,18-19,-,20-,-,-
+222,1st,Mark Grudzielanek,Dodgers,150,'01,8,B,2B+2,R,-,-,1-4,5-,6-8,9-16,17-,18-19,20-,-
+221,1st,Shawn Green,Dodgers,280,'01,8,A,LF-RF+1,L,-,1-,2-3,-,4-9,10-13,14-,15-17,18-,19-20
+215,1st,Terry Adams,Dodgers,210,'01,3,1,Reliever,R,1-2,3-6,7-15,16-17,18-,19-20,-,-,-,-
+224,1st,Todd Hundley,Dodgers,150,'01,7,B,C+1,S,-,1-2,3-,4-5,-,6-14,15-,16-17,18-,19-20
+220,1st,Tom Goodwin,Dodgers,210,'01,8,A,"CF+2, LF-RF+1",L,-,1-2,3-4,-,5-9,10-14,15-18,-,19-,20+
+34,1st,*Carl Povano,Expos,400,'01,2,6,Starter,R,1-3,4-6,7-13,14-17,18-,19-20,-,-,-,-
+52,1st,*Fernando Seguignol,Expos,190,'01,7,C,"1B+0, LF-RF+0",S,-,1-5,-,-,6-8,9-13,-,14-16,-,17-20
+132,1st,*Fernando Tatis,Expos,370,'01,9,B,3B+2,R,-,1-3,-,4-,5-11,12-14,15-,16-17,-,18-20
+36,1st,*Hideki Irabu,Expos,320,'01,3,6,Starter,R,1-3,4-7,8-12,13-16,-,17-19,-,20-,-,-
+31,1st,*Scott Strickland,Expos,220,'01,5,1,Reliever,R,1-2,3-8,9-13,14-16,17-,18-19,-,20-,-,-
+54,1st,*Tony Armas Jr.,Expos,450,'01,4,6,Starter,R,1-3,4-6,7-12,13-16,17-18,19-,-,20-,-,-
+133,1st,*Ugueth Urbina,Expos,270,'01,4,1,Closer,R,1-3,4-10,12-14,15-17,18-,19-20,-,-,-,-
+272,1st,Anthony Telford,Expos,130,'01,2,1,Reliever,R,1-2,3-7,8-13,14-17,18-,19-20,-,-,-,-
+266,1st,Dustin Hermanson,Expos,220,'01,2,6,Starter,R,1-3,4-5,6-12,13-16,17-,18-19,-,20-,-,-
+269,1st,Felipe Lira,Expos,40,'01,2,1,Reliever,R,1-3,4-5,6-12,13-16,-,17-19,-,20-,-,-
+273,1st,Javier Vazquez,Expos,350,'01,2,07,Starter,R,1-2,3-7,8-13,14-17,-,18-19,-,20-,-,-
+273,AP,Javier Vazquez,Expos,350,'01,2,07,Starter,R,1-2,3-7,8-13,14-17,-,18-19,-,20-,-,-
+274,1st,Jose Vidro,Expos,400,'01,9,B,2B+3,S,-,-,1-3,4-,5-6,7-14,-,15-18,-,19-20
+274,UL,Jose Vidro,Expos,400,'01,9,B,2B+3,S,-,-,1-3,4-,5-6,7-14,-,15-18,-,19-20
+271,1st,Lee Stevens,Expos,180,'01,7,C,1B+0,L,-,1-2,3-,-,4-7,8-13,-,14-16,-,17-20
+260,1st,Michael Barrett,Expos,60,'01,7,C,"C+4, 3B+1",R,-,-,1-5,6-,7-8,9-17,-,18-19,-,20+
+270,1st,Mike Mordecai,Expos,130,'01,7,B,3B+1,R,-,1-2,3-4,-,5-7,8-14,15-,16-18,-,19-20
+262,1st,Milton Bradley,Expos,110,'01,7,B,"CF+2, LF-RF+1",S,-,1-,2-3,-,4-9,10-16,17-,18-19,-,20+
+263,1st,Orlando Cabrera,Expos,120,'01,6,B,SS+4,R,-,-,1-4,5-6,-,7-13,-,14-17,-,18-20
+261,1st,Peter Bergeron,Expos,70,'01,7,B,"CF+2, LF-RF+1",L,-,1-,2-4,-,5-9,10-16,17-,18-19,20-,-
+261,P,Peter Bergeron,Expos,70,'01,7,B,"CF+2, LF-RF+1",L,-,1-,2-4,-,5-9,10-16,17-,18-19,20-,-
+268,1st,Steve Kline,Expos,120,'01,3,1,Reliever,L,1-2,3-6,7-13,14-16,17-,18-19,-,20-,-,-
+267,1st,Terry Jones,Expos,20,'01,6,A,"LF-RF+1, CF+0",S,-,1-2,3-6,-,-,7-14,15-17,18-19,20-,-
+264,1st,Vladimir Guerrero,Expos,470,'01,9,B,LF-RF+1,R,-,-,1-3,-,4-5,6-13,-,14-15,16-,17-20
+264,UL,Vladimir Guerrero,Expos,470,'01,9,B,LF-RF+1,R,-,-,1-3,-,4-5,6-13,-,14-15,16-,17-20
+265,1st,Wilton Guerrero,Expos,60,'01,7,A,LF-RF+1,S,-,-,1-6,-,7-,8-18,19-,-,20-,-
+4,1st,*Aaron Fultz,Giants,100,'01,3,1,Reliever,L,1-3,4-8,9-14,15-16,17-,18-19,-,20-,-,-
+62,1st,*Alan Embree,Giants,80,'01,3,1,Reliever,L,1-3,4-8,9-11,12-16,17-,18-19,-,20-,-,-
+131,1st,*Eric Davis,Giants,220,'01,9,B,LF-RF+1,R,-,1-2,3-4,-,5-10,11-18,-,19-,-,20+
+124,1st,*Felipe Crespo,Giants,230,'01,8,B,LF-RF+0,S,-,1-,2-,3-4,5-7,8-15,16-,17-,18-,19-20
+166,1st,*Pedro Feliz,Giants,130,'01,5,C,3B+2,R,-,1-,-,2-,-,3-10,-,11-12,13-,14-20
+71,1st,*Russ Davis,Giants,180,'01,7,B,3B+1,R,-,1-3,-,4-6,7-8,9-15,-,16-,-,17-20
+22,1st,*Shawn Estes,Giants,350,'01,5,6,Starter,L,1-2,3-5,6-11,12-14,15-16,17-19,-,20-,-,-
+381,1st,Armando Rios,Giants,200,'01,7,B,LF-RF+1,L,-,1-,2-,3-,4-8,9-11,12-,13-15,16-17,18-20
+370,1st,Barry Bonds,Giants,650,'01,10,B,LF-RF+1,L,-,1-,-,2-3,4-10,11-12,13-,14-15,-,16-20
+370,UL,Barry Bonds,Giants,650,'01,10,B,LF-RF+1,L,-,1-,-,2-3,4-10,11-12,13-,14-15,-,16-20
+377,1st,Bill Mueller,Giants,170,'01,8,B,3B+2,S,-,-,1-3,4-5,6-9,10-17,-,18-19,-,20+
+372,1st,Bobby Estalella,Giants,190,'01,7,B,C+5,R,-,1-3,-,-,4-12,13-,-,14-16,17-,18-20
+378,1st,Calvin Murray,Giants,130,'01,8,A,OF+1,R,-,1-,-,2-5,6-12,13-16,17-18,19-20,-,-
+373,1st,Doug Henry,Giants,130,'01,2,1,Reliever,R,1-4,5-9,10-14,15-17,18-20,-,-,-,-,-
+376,1st,Doug Mirabelli,Giants,100,'01,7,B,C+5,R,-,1-3,-,4-,5-12,13-16,-,17-18,19-,20+
+371,1st,Ellis Burks,Giants,540,'01,10,B,LF-RF+1,R,-,-,1-2,3-,4-7,8-14,-,15-16,17-,18-20
+382,1st,Felix Rodriguez,Giants,190,'01,4,1,Reliever,R,1-2,3-9,10-12,13-16,17-18,19-20,-,-,-,-
+384,1st,J. T. Snow,Giants,250,'01,9,C,1B+0,L,-,1-3,4-,5-,6-10,11-16,-,17-18,-,19-20
+375,1st,Jeff Kent,Giants,580,'01,10,B,2B+3,R,-,1-,-,2-3,4-8,9-13,14-,15-16,17-,18-20
+375,P,Jeff Kent,Giants,580,'01,10,B,2B+3,R,-,1-,-,2-3,4-8,9-13,14-,15-16,17-,18-20
+375,UL,Jeff Kent,Giants,580,'01,10,B,2B+3,R,-,1-,-,2-3,4-8,9-13,14-,15-16,17-,18-20
+383,1st,Kirk Rueter,Giants,320,'01,5,6,Starter,L,1-3,4-5,6-10,11-14,15-,16-19,-,20-,-,-
+374,1st,Livan Hernandez,Giants,480,'01,6,07,Starter,R,1-2,3-5,6-11,12-14,15-,16-19,-,20-,-,-
+374,AP,Livan Hernandez,Giants,480,'01,6,07,Starter,R,1-2,3-5,6-11,12-14,15-,16-19,-,20-,-,-
+369,1st,Marvin Benard,Giants,230,'01,8,A,"CF+2, LF-RF+1",L,-,1-,2-4,-,5-9,10-15,16-,17-18,19-,20+
+368,1st,Rich Aurilia,Giants,200,'01,8,C,SS+3,R,-,1-,2-,3-5,6-9,10-16,-,17-18,-,19-20
+379,1st,Robb Nen,Giants,330,'01,5,1,Closer,R,1-2,3-10,11-14,15-17,18-,19-20,-,-,-,-
+379,UL,Robb Nen,Giants,330,'01,5,1,Closer,R,1-2,3-10,11-14,15-17,18-,19-20,-,-,-,-
+380,1st,Russ Ortiz,Giants,190,'01,3,6,Starter,R,1-3,4-7,8-12,13-15,16-17,18-19,-,20-,-,-
+8,1st,*C.C. Sabathia,Indians,10,'01,3,5,Starter,L,1-2,3-6,7-11,12-14,15-17,18-19,-,20-,-,-
+81,1st,*Ellis Burks,Indians,520,'01,10,B,LF-RF+1,R,-,-,1-2,3-,4-8,9-15,-,16-,17-,18-20
+95,1st,*Jacob Cruz,Indians,250,'01,9,B,OF+1,L,-,-,1-5,-,6-8,9-16,-,17-19,-,20+
+19,1st,*Juan Gonzalez,Indians,290,'01,8,C,LF-RF+1,R,-,1-2,3-,4-5,6-7,8-13,-,14-16,-,17-20
+79,1st,*Justin Speier,Indians,140,'01,3,1,Reliever,R,1-3,4-9,10-12,13-17,18-,19-,-,20-,-,-
+26,1st,*Paul Shuey,Indians,200,'01,3,1,Reliever,R,1-2,3-8,9-14,15-17,18-19,20-,-,-,-,-
+110,1st,*Russ Branyan,Indians,240,'01,7,C,"3B+1, LF-RF+1",L,-,1-5,-,-,6-11,12-13,-,-,14-,15-20
+129,1st,Bartolo Colon,Indians,360,'01,2,6,Starter,R,1-3,4-10,11-15,16-17,18-19,20-,-,-,-,-
+129,AP,Bartolo Colon,Indians,360,'01,2,6,Starter,R,1-3,4-10,11-15,16-17,18-19,20-,-,-,-,-
+139,1st,Bob Wickman,Indians,250,'01,5,1,Closer,R,1-3,4-7,8-14,15-16,17-,18-19,-,20-,-,-
+131,1st,Chuck Finley,Indians,390,'01,2,6,Starter,R,1-2,3-7,8-14,15-17,18-,19-20,-,-,-,-
+128,1st,Dave Burba,Indians,340,'01,3,6,Starter,R,1-2,3-7,8-13,14-16,17-,18-19,-,20-,-,-
+136,1st,David Segui,Indians,320,'01,9,C,1B+0,S,-,-,1-3,-,4-6,7-15,-,16-18,-,19-20
+127,1st,Jason Bere,Indians,170,'01,1,5,Starter,R,1-3,4-8,9-14,15-17,18-,19-20,-,-,-,-
+137,1st,Jim Thome,Indians,310,'01,9,C,1B+0,L,-,1-3,-,-,4-12,13-15,-,16-17,-,18-20
+134,1st,Kenny Lofton,Indians,290,'01,9,A,OF+1,L,-,-,1-3,4-5,6-10,11-15,16-17,18-,19-,20+
+135,1st,Manny Ramirez,Indians,560,'01,10,C,LF-RF+0,R,-,1-2,-,-,3-8,9-13,-,14-16,-,17-20
+135,UL,Manny Ramirez,Indians,560,'01,10,C,LF-RF,R,-,1-2,-,-,3-8,9-13,-,14-16,-,17-20
+138,1st,Omar Vizquel,Indians,250,'01,9,A,SS+2,S,-,-,1-2,3-4,5-10,11-18,19-,20-,-,-
+125,1st,Roberto Alomar,Indians,410,'01,9,A,2B+2,S,-,-,1-3,4-,5-8,9-14,15-16,17-18,-,19-20
+125,P,Roberto Alomar,Indians,410,'01,9,A,2B+2,S,-,-,1-3,4-,5-8,9-14,15-16,17-18,-,19-20
+125,UL,Roberto Alomar,Indians,410,'01,9,A,2B+2,S,-,-,1-3,4-,5-8,9-14,15-16,17-18,-,19-20
+126,1st,Sandy Alomar Jr.,Indians,120,'01,7,B,C+3,R,-,-,1-3,-,-,4-16,-,17-18,19-,20+
+133,1st,Steve Karsay,Indians,190,'01,5,1,Closer,R,1-,2-6,7-12,13-15,16-,17-19,-,20-,-,-
+132,1st,Travis Fryman,Indians,300,'01,9,C,3B+2,R,-,1-,2-,3-,4-8,9-16,-,17-18,-,19-20
+130,1st,Wil Cordero,Indians,190,'01,7,C,LF-RF+1,R,-,1-,2-,3-,4-5,6-12,-,13-16,17-,18-20
+103,1st,*Brett Tomko,Mariners,170,'01,2,2,Reliever,R,1-3,4-7,8-13,14-17,18-,19-,-,20-,-,-
+174,1st,*Carlos Guillen,Mariners,150,'01,7,B,"SS+2, 3B+1",S,-,1-,2-,3-,4-8,9-17,-,18-,-,19-20
+85,1st,*Freddy Garcia,Mariners,330,'01,3,6,Starter,R,1-3,4-7,8-13,14-16,17-18,19-,-,20-,-,-
+169,1st,*Ichiro Suzuki,Mariners,400,'01,10,A,LF-RF+2,L,-,-,1-2,3-4,5-8,9-18,-,19-,-,20+
+3,1st,*Jamie Moyer,Mariners,320,'01,2,6,Starter,L,1-3,4-7,8-14,15-17,-,18-19,-,20-,-,-
+83,1st,*Jeff Nelson,Mariners,220,'01,6,1,Reliever,R,-,3-8,9-12,13-15,16-18,19-,-,20-,-,-
+399,1st,Aaron Sele,Mariners,460,'01,5,6,Starter,R,1-2,3-5,6-11,12-15,16-,17-19,-,20-,-,-
+391,1st,Al Martin,Mariners,210,'01,8,B,LF-RF+1,L,-,1-,2-5,-,6-7,8-15,16-,-,17-18,19-20
+397,1st,Alex Rodriguez,Mariners,550,'01,10,B,SS+4,R,-,1-2,3-,-,4-10,11-14,15-,16-17,-,18-20
+397,UL,Alex Rodriguez,Mariners,550,'01,10,B,SS+4,R,-,1-2,3-,-,4-10,11-14,15-,16-17,-,18-20
+396,1st,Arthur Rhodes,Mariners,250,'01,4,1,Reliever,L,1-2,3-9,10-14,15-17,18-,19-20,-,-,-,-
+400,1st,Dan Wilson,Mariners,70,'01,6,B,C+5,R,-,1-,2-,3-,4-6,7-18,-,-,-,19-20
+386,1st,David Bell,Mariners,140,'01,7,B,2B-3B+2,R,-,-,1-2,3-4,5-9,10-16,-,17-18,-,19-20
+392,1st,Edgar Martinez,Mariners,460,'01,10,B,---,R,-,1-,2-,3-,4-9,10-15,-,16-17,-,18-20
+392,UL,Edgar Martinez,Mariners,460,'01,10,B,---,R,-,1-,2-,3-,4-9,10-15,-,16-17,-,18-20
+387,1st,Jay Buhner,Mariners,310,'01,8,C,LF-RF+1,R,-,1-3,-,-,4-11,12-14,-,15-,-,16-20
+389,1st,John Halama,Mariners,260,'01,5,6,Starter,L,1-2,3-4,5-10,11-14,15-,16-18,-,19-20,-,-
+394,1st,John Olerud,Mariners,230,'01,9,C,1B+1,L,-,-,1-2,3-,4-10,11-16,-,17-19,-,20+
+395,1st,Jose Paniagua,Mariners,160,'01,5,1,Reliever,R,1-3,4-8,9-12,13-15,16-17,18-19,-,20-,-,-
+398,1st,Kazuhiro Sasaki,Mariners,240,'01,5,1,Closer,R,1-2,3-9,10-13,14-16,17-18,19-,-,20-,-,-
+398,UL,Kazuhiro Sasaki,Mariners,240,'01,5,1,Closer,R,1-2,3-9,10-13,14-16,17-18,19-,-,20-,-,-
+393,1st,Mark McLemore,Mariners,170,'01,8,A,2B+3,S,-,-,1-2,3-4,5-12,13-17,18-19,20-,-,-
+388,1st,Mike Cameron,Mariners,350,'01,9,A,"CF+2, LF-RF+1",R,-,1-3,-,4-5,6-11,12-15,16-,17-18,-,19-20
+385,1st,Paul Abbott,Mariners,450,'01,4,6,Starter,R,1-3,4-6,7-11,12-16,17-,18-19,-,20-,-,-
+390,1st,Rickey Henderson,Mariners,170,'01,9,A,LF-RF+1,R,-,1-,2-3,4-5,6-14,15-18,19-20,-,-,-
+92,1st,*A. J. Burnett,Marlins,190,'01,2,6,Starter,R,1-3,4-7,8-13,14-16,17-18,19-,-,20-,-,-
+101,1st,*Charles Johnson,Marlins,370,'01,9,C,C+6,R,-,1-3,4-,-,5-9,10-15,-,16-17,-,18-20
+45,1st,*Dan Miceli,Marlins,200,'01,4,1,Reliever,R,1-3,4-7,8-12,13-16,17-,18-20,-,-,-,-
+46,1st,*Ricky Bones,Marlins,140,'01,2,1,Reliever,R,1-2,3-6,7-13,14-17,-,18-20,-,-,-,-
+15,1st,*Vladimir Nunez,Marlins,70,'01,3,2,Reliever,R,1-3,4-7,8-12,13-15,16-17,18-19,-,20-,-,-
+174,1st,Alex Gonzalez,Marlins,10,'01,4,A,SS+2,R,-,1-3,4-,5-6,-,7-9,10-13,14-16,17-18,19-20
+170,1st,Antonio Alfonseca,Marlins,140,'01,4,1,Closer,R,1-2,3-6,7-13,14-15,16-,17-19,-,20-,-,-
+179,1st,Brad Penny,Marlins,310,'01,5,5,Starter,R,1-2,3-5,6-11,12-14,15-16,17-19,-,20-,-,-
+177,1st,Braden Looper,Marlins,170,'01,4,1,Reliever,R,1-3,4-5,6-13,14-15,16-17,18-20,-,-,-,-
+173,1st,Cliff Floyd,Marlins,440,'01,9,A,LF-RF+1,L,-,1-2,3-,4-,5-8,9-12,13-14,15-17,-,18-20
+176,1st,Derrek Lee,Marlins,260,'01,8,C,1B+0,R,-,1-3,-,-,4-8,9-15,-,16-,-,17-20
+181,1st,Henry Rodriguez,Marlins,190,'01,7,C,LF-RF+1,L,-,1-2,-,3-4,5-8,9-13,-,14-16,-,17-20
+182,1st,Jesus Sanchez,Marlins,160,'01,3,6,Starter,L,1-3,4-6,7-11,12-16,17-,18-,-,19-,-,20+
+171,1st,Luis Castillo,Marlins,340,'01,10,A,2B+2,S,-,1-,2-4,-,5-9,10-17,18-20,-,-,-
+171,UL,Luis Castillo,Marlins,340,'01,10,A,2B+2,S,-,1-,2-4,-,5-9,10-17,18-20,-,-,-
+175,1st,Mark Kotsay,Marlins,230,'01,8,A,LF-RF+2,L,-,-,1-3,4-,5-6,7-15,16-,17-18,19-,20+
+183,1st,Mark Smith,Marlins,60,'01,7,B,LF-RF+1,R,-,1-5,6-,-,7-10,11-17,-,18-19,-,20+
+178,1st,Mike Lowell,Marlins,280,'01,8,B,3B+2,R,-,-,-,1-4,5-9,10-14,-,15-17,-,18-20
+180,1st,Mike Redmond,Marlins,30,'01,7,C,C+6,R,-,-,1-4,5-,6-8,9-19,-,-,20-,-
+184,1st,Preston Wilson,Marlins,270,'01,7,A,"CF+2, LF-RF+1",R,-,1-3,-,-,4-7,8-10,11-13,14-16,-,17-20
+172,1st,Ryan Dempster,Marlins,360,'01,3,07,Starter,R,1-3,4-8,9-13,14-16,17-,18-19,-,20-,-,-
+172,AP,Ryan Dempster,Marlins,360,'01,3,07,Starter,R,1-3,4-8,9-13,14-16,17-,18-19,-,20-,-,-
+172,UL,Ryan Dempster,Marlins,360,'01,3,07,Starter,R,1-3,4-8,9-13,14-16,17-,18-19,-,20-,-,-
+145,1st,*Darryl Hamilton,Mets,220,'01,9,B,"CF+3, LF-RF+2",L,-,-,1-3,4-5,6-9,10-18,-,19-,20-,-
+96,1st,*John Franco,Mets,200,'01,3,1,Reliever,L,1-2,3-8,9-15,16-17,18-,19-20,-,-,-,-
+121,1st,*Kevin Appier,Mets,330,'01,3,6,Starter,R,1-4,5-8,9-13,14-16,17-,18-19,-,20-,-,-
+148,1st,*Rey Ordonez,Mets,10,'01,6,B,SS+2,R,-,-,1-2,3-,4-6,7-17,18-,19-20,-,-
+118,1st,*Timoniel Perez,Mets,150,'01,7,A,LF-RF+1,L,-,-,1-,2-3,-,4-14,15-,16-18,19-,20+
+102,1st,*Tsuyoshi Shinjo,Mets,130,'01,6,A,"CF+2, LF-RF+1",R,-,1-5,6-,-,7-8,9-13,14-15,16-,-,17-20
+281,1st,Al Leiter,Mets,460,'01,4,07,Starter,L,1-4,5-9,10-14,15-16,17-,18-19,-,20-,-,-
+281,AP,Al Leiter,Mets,460,'01,4,07,Starter,L,1-4,5-9,10-14,15-16,17-,18-19,-,20-,-,-
+277,1st,Armando Benitez,Mets,230,'01,4,1,Closer,R,1-3,4-11,12-14,15-17,18-19,-,-,20-,-,-
+286,1st,Bubba Trammell,Mets,170,'01,7,B,LF-RF+1,R,-,1-2,-,3-,4-9,10-13,14-,15-16,17-,18-20
+276,1st,Derek Bell,Mets,200,'01,8,B,LF-RF+1,R,-,1-2,3-4,-,5-10,11-15,16-,17-18,-,19-20
+275,1st,Edgardo Alfonzo,Mets,460,'01,10,B,2B+3,R,-,-,-,1-3,4-10,11-16,-,17-18,-,19-20
+275,UL,Edgardo Alfonzo,Mets,460,'01,10,B,2B+3,R,-,-,-,1-3,4-10,11-16,-,17-18,-,19-20
+285,1st,Glendon Rusch,Mets,360,'01,2,6,Starter,L,1-4,5-8,9-13,14-17,-,18-20,-,-,-,-
+282,1st,Jay Payton,Mets,220,'01,8,B,"CF+2, LF-RF+1",R,-,-,1-3,4-5,6-7,8-16,-,17-18,-,19-20
+280,1st,Lenny Harris,Mets,60,'01,7,A,---,L,-,-,1-5,6-,7-8,9-14,15-17,-,18-19,20+
+278,1st,Mike Bordick,Mets,220,'01,8,B,SS+2,R,-,1-,2-,3-5,6-8,9-15,16-,17-18,-,19-20
+279,1st,Mike Hampton,Mets,460,'01,3,07,Starter,L,1-2,3-6,7-14,15-16,17-18,19-20,-,-,-,-
+279,UL,Mike Hampton,Mets,460,'01,3,07,Starter,L,1-2,3-6,7-14,15-16,17-18,19-20,-,-,-,-
+283,1st,Mike Piazza,Mets,450,'01,9,B,C+3,R,-,-,1-,2-3,4-7,8-14,-,15-16,-,17-20
+283,UL,Mike Piazza,Mets,450,'01,9,B,C+3,R,-,-,1-,2-3,4-7,8-14,-,15-16,-,17-20
+289,1st,Rick White,Mets,360,'01,5,2,Reliever,R,1-2,3-6,7-12,13-16,17-,18-19,-,20-,-,-
+287,1st,Robin Ventura,Mets,220,'01,7,B,3B+3,L,-,1-,2-,3-,4-10,11-14,-,15-16,-,17-20
+287,P,Robin Ventura,Mets,220,'01,7,B,3B+3,L,-,1-,2-,3-,4-10,11-14,-,15-16,-,17-20
+284,1st,Todd Pratt,Mets,230,'01,8,C,C+6,R,-,1-,2-,3-,4-10,11-17,-,-,-,18-20
+290,1st,Todd Zeile,Mets,190,'01,8,B,1B+0,R,-,-,1-2,3-4,5-10,11-15,-,16-18,-,19-20
+288,1st,Turk Wendell,Mets,160,'01,4,1,Reliever,R,1-3,4-8,9-13,14-16,17-18,19-,-,20-,-,-
+162,1st,*Brook Fordyce,Orioles,190,'01,7,C,C+3,R,-,1-,-,2-3,4-6,7-15,-,16-,-,17-20
+70,1st,*David Segui,Orioles,300,'01,9,C,1B+0,S,-,-,1-3,-,4-6,7-16,-,17-18,-,19-20
+67,1st,*Jerry Hairston Jr.,Orioles,240,'01,8,A,2B+4,R,-,-,1-2,3-,4-10,11-16,17-,18-19,-,20+
+138,1st,*Melvin Mora,Orioles,170,'01,8,A,OF+0,R,-,1-2,3-,4-5,6-9,10-16,17-,18-,19-,20+
+143,1st,*Mike Bordick,Orioles,230,'01,8,B,SS+2,R,-,1-,2-,3-4,5-7,8-15,16-,17-18,-,19-20
+64,1st,*Ryan Kohlmeier,Orioles,120,'01,4,1,Closer,R,1-2,3-6,7-11,12-15,16-17,18-19,-,20-,-,-
+49,1st,Albert Belle,Orioles,240,'01,8,C,LF-RF+1,R,-,-,1-2,3-5,6-7,8-14,-,15-17,-,18-20
+48,1st,Brady Anderson,Orioles,330,'01,9,A,OF+1,L,-,1-2,-,3-4,5-12,13-16,17-,18-,-,19-20
+52,1st,Buddy Groom,Orioles,170,'01,5,1,Reliever,L,1-2,3-6,7-12,13-15,16-,17-19,-,20-,-,-
+61,1st,Cal Ripken Jr.,Orioles,190,'01,7,C,3B+2,R,-,-,1-2,3-4,5-7,8-14,-,15-16,-,17-20
+61,UL,Cal Ripken Jr.,Orioles,190,'01,7,C,3B+2,R,-,-,1-2,3-4,5-7,8-14,-,15-16,-,17-20
+60,1st,Chris Richard,Orioles,130,'01,7,B,1B+0,L,-,1-2,3-,4-5,6-10,11-14,15-,16-17,-,18-20
+51,1st,Delino Deshields,Orioles,320,'01,9,A,"2B+2, LF-RF+1",L,-,1-,2-4,5-,6-9,10-14,15-16,17-19,-,20+
+50,1st,Jeff Conine,Orioles,220,'01,8,B,"3B+2, LF-RF+1",R,-,-,1-2,3-5,6-8,9-16,-,17-18,-,19-20
+55,1st,Jose Mercedes,Orioles,310,'01,2,6,Starter,R,1-3,4-6,7-12,13-17,18-,19-,-,20-,-,-
+54,1st,Luis Matos,Orioles,60,'01,6,A,"CF+3, LF-RF+2",R,-,-,1-4,5-,6-9,10-15,16-18,-,19-20,-
+56,1st,Melvin Mora,Orioles,220,'01,8,A,SS+2,R,-,1-2,3-,4-5,6-8,9-15,16-,17-18,19-,20+
+56,P,Melvin Mora,Orioles,220,'01,8,A,SS+2,R,-,1-2,3-,4-5,6-8,9-15,16-,17-18,19-,20+
+57,1st,Mike Mussina,Orioles,450,'01,3,07,Starter,R,1-3,4-8,9-14,15-17,-,18-19,-,20-,-,-
+57,UL,Mike Mussina,Orioles,450,'01,3,07,Starter,R,1-3,4-8,9-14,15-17,-,18-19,-,20-,-,-
+62,1st,Mike Tromley,Orioles,100,'01,5,1,Reliever,R,1-2,3-7,8-12,13-15,16-17,18-19,-,-,-,20+
+59,1st,Pat Rapp,Orioles,240,'01,5,6,Starter,R,1-2,3-5,6-10,11-14,15-16,17-18,-,19-20,-,-
+58,1st,Sidney Ponson,Orioles,410,'01,2,07,Starter,R,1-3,4-7,8-13,14-17,18-,19-20,-,-,-,-
+53,1st,Trenidad Hubbard,Orioles,320,'01,9,C,---,R,-,1-2,3-4,5-,6-11,12-15,-,16-,-,17-20
+61,1st,*Ben Davis,Padres,110,'01,7,B,C+3,S,-,1-5,6-,-,7-11,12-17,-,18-,-,19-20
+93,1st,*Bubba Trammell,Padres,190,'01,8,B,LF-RF+1,R,-,1-3,4-,5-,6-10,11-15,16-,17-18,-,19-20
+24,1st,*Dave Magadan,Padres,190,'01,9,C,"3B+1, 1B+1",L,-,-,1-2,3-,4-11,12-18,-,19-,-,20+
+123,1st,*Mike Darr,Padres,160,'01,7,A,OF+2,L,-,1-,2-3,-,4-7,8-15,16-,17-18,19-,20+
+158,1st,*Tony Gwynn,Padres,260,'01,9,B,LF-RF+0,L,-,-,1-2,3-4,5-,6-16,-,17-19,-,20+
+356,1st,Adam Eaton,Padres,350,'01,5,6,Starter,R,1-2,3-5,6-11,12-14,15-16,17-19,-,20-,-,-
+356,AP,Adam Eaton,Padres,350,'01,5,6,Starter,R,1-2,3-5,6-11,12-14,15-16,17-19,-,20-,-,-
+354,1st,Bret Boone,Padres,160,'01,7,B,2B+2,R,-,1-2,-,3-4,5-9,10-15,16-,17-,-,18-20
+353,1st,Carlos Almanzar,Padres,40,'01,1,1,Reliever,R,1-3,4-8,9-13,14-17,18-,19-20,-,-,-,-
+359,1st,Damian Jackson,Padres,250,'01,8,A,2B-SS+3,R,-,1-4,5-,-,6-10,11-14,15-16,17-18,19-,20+
+363,1st,Desi Relaford,Padres,170,'01,8,A,SS+2,S,-,1-,2-3,4-5,6-14,15-18,19-,-,-,20+
+362,1st,Eric Owens,Padres,180,'01,8,A,"CF+2, LF-RF+1",R,-,-,1-4,-,5-6,7-16,17-18,19-,20-,-
+362,P,Eric Owens,Padres,180,'01,8,A,"CF+2, LF-RF+1",R,-,-,1-4,-,5-6,7-16,17-18,19-,20-,-
+367,1st,Jay Witasick,Padres,210,'01,2,6,Starter,R,1-3,4-7,8-13,14-16,17-,18-19,-,20-,-,-
+365,1st,Kevin Walker,Padres,220,'01,5,1,Reliever,L,1-2,3-6,7-12,13-15,16-18,19-20,-,-,-,-
+355,1st,Matt Clement,Padres,300,'01,2,6,Starter,R,1-2,3-7,8-14,15-16,17-19,20-,-,-,-,-
+361,1st,Phil Nevin,Padres,360,'01,9,B,3B+1,R,-,1-3,4-5,-,6-8,9-15,-,16-17,-,18-20
+361,UL,Phil Nevin,Padres,360,'01,9,B,3B+1,R,-,1-3,4-5,-,6-8,9-15,-,16-17,-,18-20
+364,1st,Ruben Rivera,Padres,140,'01,6,B,"CF+2, LF-RF+1",R,-,1-3,-,-,4-10,11-12,13-,14-,15-16,17-20
+360,1st,Ryan Klesko,Padres,380,'01,9,A,1B+0,L,-,1-,2-3,4-,5-11,12-14,15-,16-17,-,18-20
+358,1st,Trevor Hoffman,Padres,290,'01,6,1,Closer,R,1-3,4-10,11-13,14-16,-,17-19,-,20-,-,-
+358,UL,Trevor Hoffman,Padres,290,'01,6,1,Closer,R,1-3,4-10,11-13,14-16,-,17-19,-,20-,-,-
+357,1st,Wiki Gonzalez,Padres,50,'01,6,B,C+6,R,-,-,1-3,4-,5-9,10-15,-,16-18,19-,20+
+366,1st,Woody Williams,Padres,400,'01,2,07,Starter,R,1-4,5-8,9-13,14-17,18-,19-20,-,-,-,-
+78,1st,*Bruce Chen,Phillies,300,'01,2,07,Starter,L,1-4,5-9,10-12,13-17,18-,19-,-,20-,-,-
+48,1st,*Cliff Politte,Phillies,130,'01,1,5,Starter,R,1-3,4-8,9-13,14-17,18-19,20-,-,-,-,-
+56,1st,*Gary Bennett,Phillies,110,'01,7,C,C+4,R,-,1-2,3-,-,4-9,10-16,-,17-18,-,19-20
+33,1st,*Jimmy Rollins,Phillies,170,'01,7,A,SS+3,S,-,1-2,3-4,5-,6-9,10-14,15-16,17-,18-19,20+
+108,1st,*Marlon Anderson,Phillies,120,'01,7,A,2B+2,L,-,1-,2-3,4-5,6-8,9-16,17-,18-,19-,20+
+323,1st,Bobby Abreu,Phillies,510,'01,10,A,LF-RF+2,L,-,1-2,3-,4-,5-10,11-14,15-,16-17,18-,19-20
+328,1st,Doug Glanville,Phillies,140,'01,7,A,"CF+2, LF-RF+1",R,-,-,1-4,5-,-,6-15,16-17,18-,19-,20+
+324,1st,Jeff Brantley,Phillies,10,'01,5,1,Closer,R,1-3,4-8,9-11,12-14,15-16,17-19,-,-,-,20+
+330,1st,Kevin Jordan,Phillies,10,'01,5,C,"2B+3, 3B+2",R,-,-,1-5,6-,-,7-15,-,16-17,18-,19-20
+336,1st,Kevin Sefcik,Phillies,20,'01,6,A,"CF+2, LF-RF+1",R,-,-,1-3,4-,5-9,10-16,17-18,19-,20-,-
+332,1st,Mike Lieberthal,Phillies,270,'01,8,B,C+7,R,-,-,1-,2-4,5-8,9-14,-,15-18,-,19-20
+326,1st,Omar Daal,Phillies,200,'01,1,6,Starter,L,1-3,4-6,7-13,14-17,-,18-19,-,20-,-,-
+325,1st,Pat Burrell,Phillies,240,'01,8,C,"LF-RF+1, 1B+0",R,-,1-3,-,-,4-10,11-14,-,15-17,-,18-20
+325,P,Pat Burrell,Phillies,240,'01,8,C,"LF-RF+1, 1B+0",R,-,1-3,-,-,4-10,11-14,-,15-17,-,18-20
+337,1st,Randy Wolf,Phillies,160,'01,1,6,Starter,L,1-4,5-8,9-13,14-17,18-,19-,-,20-,-,-
+327,1st,Rob Ducey,Phillies,30,'01,7,B,---,R,-,1-3,-,4-5,6-15,16-17,-,18-,-,19-20
+334,1st,Robert Person,Phillies,290,'01,4,6,Starter,R,1-3,4-8,9-11,12-15,16-18,19-,-,20-,-,-
+335,1st,Scott Rolen,Phillies,390,'01,8,B,3B+3,R,-,1-,-,2-3,4-6,7-11,12-,13-15,16-,17-20
+335,UL,Scott Rolen,Phillies,390,'01,8,B,3B+3,R,-,1-,-,2-3,4-6,7-11,12-,13-15,16-,17-20
+331,1st,Travis Lee,Phillies,150,'01,8,B,"LF-RF+2, 1B+0",L,-,1-,2-4,5-,6-12,13-16,17-,18-19,-,20+
+333,1st,Vicente Padilla,Phillies,190,'01,5,1,Reliever,R,1-2,3-6,7-13,14-15,16-,17-19,-,20-,-,-
+329,1st,Wayne Gomes,Phillies,120,'01,4,1,Reliever,R,1-3,4-6,7-13,14-15,16-17,18-19,-,20-,-,-
+20,1st,*Derek Bell,Pirates,200,'01,8,B,LF-RF+1,R,-,1-2,3-4,-,5-10,11-15,16-,17-18,-,19-20
+23,1st,*Enrique Wilson,Pirates,140,'01,7,B,"SS+3, 3B+1",S,-,-,1-3,4-,5-6,7-15,16-,17-19,-,20+
+29,1st,*Francisco Cordova,Pirates,190,'01,1,6,Starter,R,1-3,4-7,8-14,15-17,18-,19-,-,20-,-,-
+165,1st,*Jack Wilson,Pirates,100,'01,7,B,SS+3,R,-,1-3,4-5,6-,7-9,10-16,-,17-18,19-,20+
+42,1st,*Jason Schmidt,Pirates,200,'01,2,6,Starter,R,1-2,3-6,7-12,13-16,17-18,19-,-,20-,-,-
+341,1st,Adrian Brown,Pirates,230,'01,8,A,OF+1,S,-,-,1-4,-,5-7,8-15,16-17,18-,19-,20+
+346,1st,Aramis Ramirez,Pirates,100,'01,7,C,3B+1,R,-,-,1-2,3-4,5-,6-14,-,15-18,19-,20+
+346,P,Aramis Ramirez,Pirates,100,'01,7,C,3B+1,R,-,-,1-2,3-4,5-,6-14,-,15-18,19-,20+
+342,1st,Brian Giles,Pirates,510,'01,10,B,"CF+2, LF-RF+1",L,-,-,1-2,3-,4-10,11-15,-,16-17,-,18-20
+342,UL,Brian Giles,Pirates,510,'01,10,B,"CF+2, LF-RF+1",L,-,-,1-2,3-,4-10,11-15,-,16-17,-,18-20
+343,1st,Jason Kendall,Pirates,420,'01,10,A,C+4,R,-,-,1-3,4-,5-9,10-16,17-,18-19,-,20+
+343,UL,Jason Kendall,Pirates,420,'01,10,A,C+4,R,-,-,1-3,4-,5-9,10-16,17-,18-19,-,20+
+338,1st,Jimmy Anderson,Pirates,230,'01,1,5,Starter,L,1-2,3-4,5-14,15-17,18-,19-20,-,-,-,-
+350,1st,John Vander Wal,Pirates,510,'01,10,B,LF-RF+1,L,-,1-3,-,4-,5-10,11-13,14-,15-17,-,18-20
+349,1st,Jose Silva,Pirates,50,'01,1,1,Reliever,R,1-3,4-7,8-13,14-17,-,18-20,-,-,-,-
+352,1st,Kevin Young,Pirates,140,'01,7,B,1B+0,R,-,1-2,-,3-5,6-8,9-14,15-,16-17,-,18-20
+340,1st,Kris Benson,Pirates,420,'01,2,07,Starter,R,1-2,3-7,8-14,15-17,18-,19-20,-,-,-,-
+340,AP,Kris Benson,Pirates,420,'01,2,07,Starter,R,1-2,3-7,8-14,15-17,18-,19-20,-,-,-,-
+339,1st,Mike Benjamin,Pirates,110,'01,6,A,"2B-SS+3, 3B+2",R,-,1-,2-,3-,4-,5-13,14-,15-19,20-,-
+351,1st,Mike Williams,Pirates,140,'01,2,1,Closer,R,1-,2-7,8-13,14-17,18-19,20-,-,-,-,-
+344,1st,Pat Meares,Pirates,100,'01,6,C,SS+3,R,-,1-,2-,3-,4-6,7-14,-,15-16,17-,18-20
+348,1st,Scott Sauerbeck,Pirates,20,'01,4,1,Reliever,L,1-,2-7,8-12,13-14,15-17,18-19,-,20-,-,-
+347,1st,Todd Ritchie,Pirates,180,'01,1,6,Starter,R,1-3,4-7,8-14,15-17,-,18-19,-,20-,-,-
+345,1st,Warren Morris,Pirates,120,'01,8,B,2B+3,L,-,-,1-2,3-5,6-10,11-18,-,19-20,-,-
+39,1st,*Alex Rodriguez,Rangers,640,'01,10,B,SS+4,R,-,1-,2-,-,3-9,10-13,14-,15-16,-,17-20
+40,1st,*Andres Galarraga,Rangers,370,'01,9,B,---,R,-,1-,2-3,-,4-8,9-15,16-,17-18,19-,20+
+72,1st,*Jeff Zimmerman,Rangers,10,'01,1,1,Reliever,R,1-3,4-9,10-12,13-17,18-,19-20,-,-,-,-
+140,1st,*Ken Caminiti,Rangers,380,'01,9,B,3B+1,S,-,1-,2-,3-,4-10,11-15,16-,17-,-,18-20
+1,1st,*Randy Velarde,Rangers,210,'01,8,B,2B+4,R,-,1-,2-3,-,4-8,9-16,17-,18-19,-,20+
+106,1st,*Ruben Mateo,Rangers,220,'01,7,A,"CF+2, LF-RF+2",R,-,1-3,4-5,-,6-,7-13,14-,15-17,-,18-20
+437,1st,Chad Curtis,Rangers,160,'01,8,B,LF-RF+1,R,-,1-2,3-,4-,5-9,10-16,-,17-19,-,20+
+434,1st,Frank Catalanotto,Rangers,300,'01,9,B,"2B+2, 1B+0",L,-,-,1-2,3-4,5-9,10-16,17-,18-,-,19-20
+440,1st,Gabe Kapler,Rangers,240,'01,8,B,OF+1,R,-,-,1-2,3-,4-6,7-14,15-,16-18,-,19-20
+444,1st,Ivan Rodriguez,Rangers,530,'01,9,B,C+9,R,-,-,1-4,5-,-,6-11,12-,13-15,16-,17-20
+444,P,Ivan Rodriguez,Rangers,530,'01,9,B,C+9,R,-,-,1-4,5-,-,6-11,12-,13-15,16-,17-20
+444,UL,Ivan Rodriguez,Rangers,530,'01,9,B,C+9,R,-,-,1-4,5-,-,6-11,12-,13-15,16-,17-20
+447,1st,John Wetteland,Rangers,40,'01,1,1,Closer,R,1-2,3-7,8-12,13-17,18-,19-20,-,-,-,-
+445,1st,Kenny Rogers,Rangers,390,'01,4,07,Starter,L,1-2,3-5,6-12,13-15,16-,17-19,-,20-,-,-
+433,1st,Luis Alicea,Rangers,190,'01,9,C,2B+2,S,-,-,1-,2-5,6-9,10-18,-,19-,20-,-
+441,1st,Mike Lamb,Rangers,60,'01,7,C,3B+1,L,-,-,1-3,4-,5-,6-17,-,18-19,-,20+
+446,1st,Mike Venafro,Rangers,180,'01,6,1,Reliever,R,1-2,3-5,6-12,13-14,15-,16-19,-,20-,-,-
+443,1st,Rafael Palmeiro,Rangers,390,'01,9,B,1B+0,L,-,-,1-,2-4,5-10,11-15,-,16-,-,17-20
+439,1st,Rick Helling,Rangers,340,'01,6,6,Starter,R,1-3,4-6,7-9,10-14,15-16,17-18,-,19-20,-,-
+442,1st,Ricky Ledee,Rangers,140,'01,7,A,LF-RF+1,L,-,1-2,3-,4-,5-10,11-15,16-,17-,18-,19-20
+435,1st,Royce Clayton,Rangers,160,'01,7,A,SS+3,R,-,1-,2-5,6-,7-9,10-15,16-,17-,18-,19-20
+438,1st,Rusty Greer,Rangers,270,'01,9,B,LF-RF+1,L,-,-,1-3,4-,5-9,10-15,-,16-19,-,20+
+436,1st,Tim Crabtree,Rangers,170,'01,3,1,Reliever,R,1-3,4-7,8-15,16-17,-,18-19,-,20-,-,-
+49,1st,*Chris Stynes,Red Sox,350,'01,9,B,"2B+3, 3B+2",R,-,1-,2-4,-,5-6,7-16,-,17-18,-,19-20
+122,1st,*Frank Castillo,Red Sox,420,'01,3,6,Starter,R,1-4,5-9,10-13,14-17,18-,19-,-,20-,-,-
+167,1st,*Hideo Nomo,Red Sox,190,'01,4,6,Starter,R,1-2,3-8,9-12,13-15,16-17,18-19,-,-,-,20+
+155,1st,*Manny Ramirez,Red Sox,490,'01,10,C,LF-RF+0,R,-,1-2,-,-,3-8,9-14,-,15-17,-,18-20
+43,1st,*Rod Beck,Red Sox,220,'01,6,1,Reliever,R,1-3,4-7,8-12,13-15,16-,17-19,-,20-,-,-
+136,1st,*Scott Hatteberg,Red Sox,180,'01,9,C,C+0,L,-,1-,2-3,4-,5-11,12-17,-,18-19,-,20+
+137,1st,*Tomokazu Ohka,Red Sox,320,'01,2,6,Starter,R,1-4,5-7,8-13,14-17,-,18-19,-,20-,-,-
+66,1st,Carl Everett,Red Sox,460,'01,9,B,OF+1,S,-,1-4,5-,-,6-9,10-13,14-,15-16,-,17-20
+64,1st,Dante Bichette,Red Sox,260,'01,8,B,LF-RF+1,R,-,1-,2-,3-4,5-7,8-15,-,16-17,-,18-20
+70,1st,Darren Lewis,Red Sox,100,'01,7,A,"CF+2, LF-RF+1",R,-,-,1-4,5-,6-9,10-17,18-19,-,-,20+
+71,1st,Derek Lowe,Red Sox,250,'01,5,1,Closer,R,1-2,3-7,8-14,15-16,-,17-19,-,20-,-,-
+77,1st,Jason Varitek,Red Sox,150,'01,8,C,C+3,S,-,1-2,3-4,5-,6-11,12-16,-,17-19,-,20+
+75,1st,Jose Offerman,Red Sox,140,'01,8,C,"2B+1, 1B+0",S,-,-,1-,2-3,4-10,11-18,-,-,19-,20+
+69,1st,Mike Lansing,Red Sox,40,'01,6,B,2B+1,R,-,-,1-3,4-,5-6,7-15,16-,17-,18-,19-20
+68,1st,Nomar Garciaparra,Red Sox,510,'01,10,B,SS+2,R,-,-,1-,2-3,4-5,6-14,-,15-18,-,19-20
+68,UL,Nomar Garciaparra,Red Sox,510,'01,10,B,SS+2,R,-,-,1-,2-3,4-5,6-14,-,15-18,-,19-20
+72,1st,Pedro Martinez,Red Sox,700,'01,5,07,Starter,R,1-2,3-10,11-14,15-17,18-,19-20,-,-,-,-
+72,AP,Pedro Martinez,Red Sox,700,'01,5,07,Starter,R,1-2,3-10,11-14,15-17,18-,19-20,-,-,-,-
+72,UL,Pedro Martinez,Red Sox,700,'01,5,07,Starter,R,1-2,3-10,11-14,15-17,18-,19-20,-,-,-,-
+73,1st,Ramon Martinez,Red Sox,110,'01,2,5,Starter,R,1-4,5-8,9-13,14-16,17-18,19-,-,20-,-,-
+65,1st,Rheal Cormier,Red Sox,170,'01,4,1,Reliever,L,1-3,4-7,8-13,14-16,-,17-19,-,20-,-,-
+67,1st,Rich Garces,Red Sox,220,'01,4,1,Reliever,R,1-3,4-8,9-13,14-17,-,18-19,-,20-,-,-
+63,1st,Rolando Arrojo,Red Sox,130,'01,1,5,Starter,R,1-3,4-7,8-14,15-17,18-,19-,-,20-,-,-
+74,1st,Trot Nixon,Red Sox,250,'01,9,B,LF-RF+1,L,-,1-2,3-,4-5,6-11,12-15,16-,17-18,19-,20+
+76,1st,Troy OLeary,Red Sox,110,'01,7,C,LF-RF+1,L,-,-,1-2,3-4,5-7,8-15,-,16-18,-,19-20
+73,1st,*Dennys Reyes,Reds,70,'01,3,1,Reliever,L,1-2,3-7,8-12,13-15,16-18,19-20,-,-,-,-
+113,1st,*Jason LaRue,Reds,80,'01,5,B,C+3,R,-,1-2,-,-,3-6,7-10,11-,12-15,-,16-20
+28,1st,*John Riedling,Reds,100,'01,4,1,Reliever,R,1-2,3-7,8-12,13-15,16-17,18-19,-,20-,-,-
+27,1st,*Mark Wohlers,Reds,90,'01,5,1,Reliever,R,1-3,4-7,8-11,12-14,15-18,19-,-,20-,-,-
+41,1st,*Rob Bell,Reds,190,'01,6,5,Starter,R,1-2,3-6,7-10,11-14,15-16,17-18,-,19-,-,20+
+110,1st,Aaron Boone,Reds,240,'01,8,B,3B+3,R,-,1-2,-,3-4,5-8,9-15,16-,17-18,-,19-20
+116,1st,Alex Ochoa,Reds,330,'01,8,A,LF-RF+1,R,-,-,1-2,3-4,5-7,8-12,13-,14-16,17-,18-20
+115,1st,Barry Larkin,Reds,320,'01,9,A,SS+1,R,-,-,1-2,3-,4-8,9-15,16-,17-18,19-,20+
+115,UL,Barry Larkin,Reds,320,'01,9,A,SS+1,R,-,-,1-2,3-,4-8,9-15,16-,17-18,19-,20+
+119,1st,Chris Stynes,Reds,320,'01,9,B,3B+2,R,-,1-,2-4,5-,6-7,8-16,-,17-18,-,19-20
+112,1st,Danny Graves,Reds,200,'01,5,1,Closer,R,1-2,3-5,6-12,13-15,16-17,18-19,-,20-,-,-
+124,1st,Dmitri Young,Reds,230,'01,8,C,LF-RF+1,S,-,-,1-5,-,6-,7-14,-,15-17,18-,19-20
+121,1st,Eddie Taubensee,Reds,100,'01,7,C,C+3,L,-,1-,2-4,-,5-6,7-17,-,18-,-,19-20
+113,1st,Ken Griffey Jr.,Reds,420,'01,9,B,"CF+2, LF-RF+1",L,-,1-2,-,3-4,5-11,12-15,-,16-,-,17-20
+113,UL,Ken Griffey Jr.,Reds,420,'01,9,B,"CF+2, LF-RF+1",L,-,1-2,-,3-4,5-11,12-15,-,16-,-,17-20
+122,1st,Michael Tucker,Reds,330,'01,9,A,LF-RF+1,L,-,1-3,-,4-5,6-12,13-15,16-,17-,18-,19-20
+114,1st,Pete Harnisch,Reds,380,'01,5,6,Starter,R,1-3,4-6,7-11,12-15,16-,17-18,-,19-20,-,-
+118,1st,Pokey Reese,Reds,210,'01,7,A,2B+4,R,-,-,1-,2-4,5-7,8-13,14-16,17-,18-,19-20
+123,1st,Ron Villone,Reds,10,'01,0,6,Starter,R,1-4,5-7,8-13,14-17,18-19,-,-,20-,-,-
+120,1st,Scott Sullivan,Reds,160,'01,4,1,Reliever,R,1-4,5-9,10-13,14-16,17-,18-19,-,20-,-,-
+111,1st,Sean Casey,Reds,280,'01,9,C,1B+0,L,-,1-,2-3,4-,5-8,9-15,-,16-18,-,19-20
+111,P,Sean Casey,Reds,280,'01,9,C,1B,L,-,1-,2-3,4-,5-8,9-15,-,16-18,-,19-20
+117,1st,Steve Parris,Reds,240,'01,5,6,Starter,R,1-3,4-6,7-11,12-14,15-,16-18,-,19-20,-,-
+175,1st,*Ben Petrick,Rockies,190,'01,8,B,C+2,R,-,1-2,-,3-,4-8,9-15,-,16-18,19-,20+
+30,1st,*Craig House,Rockies,10,'01,3,1,Reliever,R,1-2,3-6,7-11,12-14,15-19,20-,-,-,-,-
+17,1st,*Juan Pierre,Rockies,180,'01,8,A,"CF+2, LF-RF+1",L,-,-,1-3,-,4-,5-17,18-19,-,20-,-
+47,1st,*Mike Hampton,Rockies,390,'01,5,07,Starter,L,1-2,3-5,6-12,13-14,15-16,17-19,-,20-,-,-
+66,1st,*Ron Gant,Rockies,370,'01,8,B,LF-RF+1,R,-,1-,2-,3-,4-8,9-13,-,14-,15-,16-20
+51,1st,*Todd Walker,Rockies,180,'01,8,B,2B+1,L,-,-,1-2,3-,4-7,8-15,16-,17-18,19-,20+
+149,1st,Brent Mayne,Rockies,130,'01,8,C,C+4,L,-,-,1-2,3-4,5-8,9-18,-,19-,-,20+
+141,1st,Brian Bohanon,Rockies,390,'01,3,07,Starter,L,1-3,4-6,7-13,14-16,17-,18-19,-,20-,-,-
+147,1st,Butch Huskey,Rockies,110,'01,8,C,---,R,-,1-2,3-,4-,5-10,11-17,-,18-,-,19-20
+153,1st,Gabe White,Rockies,260,'01,5,1,Reliever,L,1-3,4-9,10-12,13-17,-,18-19,-,20-,-,-
+153,UL,Gabe White,Rockies,260,'01,5,1,Reliever,L,1-3,4-9,10-12,13-17,-,18-19,-,20-,-,-
+142,1st,Jeff Cirillo,Rockies,300,'01,9,B,3B+2,R,-,-,1-2,3-,4-7,8-15,-,16-19,-,20+
+143,1st,Jeff Frye,Rockies,190,'01,9,B,2B+2,R,-,1-,2-3,-,4-7,8-19,-,20-,-,-
+144,1st,Jeffrey Hammonds,Rockies,380,'01,9,A,LF-RF+1,R,-,1-,-,2-3,4-6,7-15,16-,17-18,-,19-20
+148,1st,Jose Jimenez,Rockies,260,'01,5,1,Closer,L,1-2,3-5,6-13,14-16,17-,18-19,-,20-,-,-
+152,1st,Larry Walker,Rockies,340,'01,9,B,LF-RF+2,L,-,-,1-3,-,4-9,10-15,-,16-17,18-,19-20
+154,1st,Masato Yoshii,Rockies,150,'01,4,6,Starter,R,1-3,4-6,7-11,12-15,16-,17-18,-,19-,-,20+
+150,1st,Neifi Perez,Rockies,200,'01,7,B,SS+5,S,-,-,1-3,4-5,-,6-15,-,16-18,-,19-20
+140,1st,Pedro Astacio,Rockies,170,'01,1,6,Starter,R,1-2,3-8,9-14,15-17,18-,19-,-,20-,-,-
+151,1st,Terry Shumpert,Rockies,200,'01,7,A,"2B-3B+2, LF-RF+1",R,-,1-,-,2-3,4-9,10-14,15-,16-,17-18,19-20
+145,1st,Todd Helton,Rockies,560,'01,10,B,1B+1,L,-,-,1-,2-,3-7,8-13,-,14-17,-,18-20
+145,UL,Todd Helton,Rockies,560,'01,10,B,1B+1,L,-,-,1-,2-,3-7,8-13,-,14-17,-,18-20
+146,1st,Todd Hollandsworth,Rockies,200,'01,7,A,OF+1,L,-,1-2,3-,-,4-7,8-13,14-15,16-17,-,18-20
+11,1st,*Blake Stein,Royals,200,'01,1,6,Starter,R,1-4,5-8,9-13,14-17,18-19,20-,-,-,-,-
+163,1st,*Dee Brown,Royals,100,'01,6,A,LF-RF+1,L,-,1-5,-,-,6-7,8-13,14-,15-16,17-,18-20
+91,1st,*Jose Rosado,Royals,440,'01,4,6,Starter,L,1-3,4-7,8-12,13-16,17-,18-19,-,20-,-,-
+200,1st,Carlos Beltran,Royals,190,'01,7,A,"CF+2, LF-RF+1",R,-,1-,2-4,5-,6-8,9-14,15-16,17-,18-,19-20
+204,1st,Carlos Febles,Royals,90,'01,7,A,2B+2,R,-,-,1-3,-,4-10,11-17,18-19,20-,-,-
+208,1st,Dan Reichert,Royals,340,'01,2,07,Starter,R,1-2,3-6,7-14,15-16,17-18,19-20,-,-,-,-
+205,1st,Dave McCarty,Royals,210,'01,7,C,1B+1,R,-,1-2,3-,-,4-5,6-13,-,14-15,16-,17-20
+214,1st,Gregg Zaun,Royals,250,'01,9,B,C+3,S,-,-,1-2,3-4,5-11,12-17,18-,19-,-,20+
+211,1st,Jeff Suppan,Royals,240,'01,1,07,Starter,R,1-3,4-6,7-13,14-17,18-,19-,-,20-,-,-
+203,1st,Jermaine Dye,Royals,370,'01,9,C,LF-RF+1,R,-,1-,2-,3-,4-7,8-14,-,15-17,-,18-20
+207,1st,Joe Randa,Royals,230,'01,8,B,3B+2,R,-,-,1-2,3-4,5-,6-16,-,17-18,-,19-20
+202,1st,Johnny Damon,Royals,350,'01,9,A,"CF+2, LF-RF+1",L,-,-,1-2,3-4,5-7,8-14,15-16,17-18,19-,20+
+202,UL,Johnny Damon,Royals,350,'01,9,A,"CF+2, LF-RF+1",L,-,-,1-2,3-4,5-7,8-14,15-16,17-18,19-,20+
+210,1st,Jose Santiago,Royals,290,'01,5,2,Reliever,R,1-2,3-5,6-12,13-15,16-,17-19,-,20-,-,-
+212,1st,Mac Suzaki,Royals,320,'01,2,6,Starter,R,1-3,4-7,8-13,14-17,18-,19-,-,20-,-,-
+206,1st,Mark Quinn,Royals,260,'01,8,B,LF-RF+1,R,-,1-2,3-4,5-,6-7,8-14,-,15-17,-,18-20
+213,1st,Mike Sweeney,Royals,380,'01,10,B,1B+0,R,-,-,1-2,3-4,5-9,10-17,-,18-,-,19-20
+209,1st,Rey Sanchez,Royals,130,'01,7,B,SS+5,R,-,-,1-4,-,5-,6-18,19-,20-,-,-
+201,1st,Ricky Bottalico,Royals,80,'01,2,1,Reliever,R,1-3,4-8,9-13,14-17,18-19,-,-,20-,-,-
+55,1st,*Billy McMillon,Tigers,160,'01,9,C,---,L,-,1-2,-,3-4,5-10,11-17,-,18-19,-,20+
+16,1st,*C.J. Nitkowski,Tigers,60,'01,1,1,Reliever,L,1-2,3-7,8-14,15-17,18-,19-20,-,-,-,-
+13,1st,*Chris Holt,Tigers,240,'01,3,6,Starter,R,1-2,3-5,6-12,13-15,16-,17-19,-,20-,-,-
+142,1st,*Robert Fick,Tigers,130,'01,7,A,"C+2, 1B+0",L,-,1-3,4-,5-,6-11,12-15,16-,17-,18-,19-20
+159,1st,*Roger Cedeno,Tigers,260,'01,9,A,LF-RF+1,S,-,1-,2-3,-,4-9,10-15,16-19,-,20-,-
+164,1st,Bobby Higginson,Tigers,450,'01,9,A,LF-RF+2,L,-,1-,-,2-4,5-8,9-13,14-,15-17,-,18-20
+164,P,Bobby Higginson,Tigers,450,'01,9,A,LF-RF+2,L,-,1-,-,2-4,5-8,9-13,14-,15-17,-,18-20
+156,1st,Brad Ausmus,Tigers,210,'01,8,B,C+9,R,-,-,1-2,3-,4-9,10-16,17-,18-19,-,20+
+166,1st,Brian Moehler,Tigers,340,'01,4,6,Starter,R,1-3,4-6,7-12,13-15,-,16-19,-,20-,-,-
+160,1st,Damion Easley,Tigers,280,'01,8,A,2B+4,R,-,1-,2-3,4-,5-10,11-15,16-,17-18,-,19-20
+168,1st,Dean Palmer,Tigers,260,'01,8,B,3B+0,R,-,1-4,-,5-,6-10,11-15,-,16-,-,17-20
+159,1st,Deivi Cruz,Tigers,130,'01,7,C,SS+3,R,-,-,1-3,4-,-,5-14,-,15-18,19-,20+
+167,1st,Hideo Nomo,Tigers,290,'01,2,6,Starter,R,1-3,4-9,10-13,14-17,18-,19-,-,20-,-,-
+169,1st,Jeff Weaver,Tigers,350,'01,2,07,Starter,R,1-3,4-7,8-13,14-17,-,18-19,-,20-,-,-
+169,AP,Jeff Weaver,Tigers,350,'01,2,07,Starter,R,1-3,4-7,8-13,14-17,-,18-19,-,20-,-,-
+161,1st,Juan Encarnacion,Tigers,180,'01,7,A,OF+1,R,-,1-,2-3,-,4-,5-14,15-,16-17,18-,19-20
+162,1st,Juan Gonzalez,Tigers,190,'01,7,C,LF-RF+0,R,-,1-,2-,3-,4-5,6-13,-,14-16,-,17-20
+155,1st,Matt Anderson,Tigers,130,'01,3,1,Reliever,R,1-2,3-8,9-13,14-16,17-18,19-20,-,-,-,-
+157,1st,Rich Becker,Tigers,280,'01,9,B,"CF+2, LF-RF+1",L,-,1-2,3-,-,4-13,14-18,-,-,-,19-20
+163,1st,Shane Halter,Tigers,90,'01,7,B,"3B+2, 1B+0",R,-,1-3,4-,5-6,7-,8-16,17-,18-,19-,20+
+165,1st,Todd Jones,Tigers,160,'01,3,1,Closer,R,1-2,3-8,9-14,15-16,17-,18-20,-,-,-,-
+165,UL,Todd Jones,Tigers,160,'01,3,1,Closer,R,1-2,3-8,9-14,15-16,17-,18-20,-,-,-,-
+158,1st,Tony Clark,Tigers,280,'01,8,C,1B+0,S,-,1-3,4-5,-,6-9,10-14,-,15-16,-,17-20
+60,1st,*A.J. Pierzynski,Twins,130,'01,7,B,C+4,L,-,1-,2-,3-5,-,6-14,-,15-18,19-,20+
+144,1st,*Doug Mientkiewicz,Twins,190,'01,8,B,1B+0,L,-,1-2,-,3-4,5-8,9-16,-,17-18,-,19-20
+9,1st,*Eddie Guardado,Twins,90,'01,3,1,Reliever,L,1-4,5-9,10-12,13-17,18-,19-,-,-,-,20+
+127,1st,*Luis Rivas,Twins,110,'01,7,A,2B+2,R,-,1-,2-3,4-5,6-8,9-14,15-,16-19,20-,-
+10,1st,*Matt Kinney,Twins,190,'01,3,6,Starter,R,1-2,3-6,7-11,12-15,16-18,19-,-,20-,-,-
+152,1st,*Travis Miller,Twins,100,'01,4,1,Reliever,L,1-2,3-7,8-12,13-15,16-,17-19,-,20-,-,-
+259,1st,Bob Wells,Twins,210,'01,6,1,Reliever,R,1-3,4-8,9-10,11-15,16-,17-19,-,20-,-,-
+257,1st,Brad Radke,Twins,350,'01,2,07,Starter,R,1-3,4-7,8-14,15-17,-,18-19,-,20-,-,-
+257,AP,Brad Radke,Twins,350,'01,2,07,Starter,R,1-3,4-7,8-14,15-17,-,18-19,-,20-,-,-
+257,UL,Brad Radke,Twins,350,'01,2,07,Starter,R,1-3,4-7,8-14,15-17,-,18-19,-,20-,-,-
+252,1st,Corey Koskie,Twins,280,'01,9,B,3B+2,L,-,1-2,3-,-,4-9,10-16,-,17-18,19-,20+
+247,1st,Cristian Guzman,Twins,160,'01,7,A,SS+2,S,-,1-,2-6,-,7-8,9-13,14-15,16-,17-19,20+
+256,1st,David Ortiz,Twins,180,'01,9,C,---,L,-,1-2,3-4,5-,6-10,11-15,-,16-19,-,20+
+249,1st,Denny Hocking,Twins,260,'01,9,B,"2B-CF+2, LF-RF+1",S,-,1-2,3-,4-,5-9,10-16,17-,18-19,20-,-
+255,1st,Eric Milton,Twins,250,'01,3,6,Starter,L,1-4,5-9,10-13,14-17,-,18-,-,19-,-,20+
+251,1st,Jacque Jones,Twins,170,'01,7,B,LF-RF+1,L,-,1-2,3-5,-,-,6-13,14-,15-16,17-,18-20
+245,1st,Jay Canizaro,Twins,140,'01,7,B,2B+1,R,-,1-,2-,3-,4-6,7-14,15-,16-18,-,19-20
+248,1st,LaTroy Hawkins,Twins,180,'01,5,1,Reliever,R,1-2,3-5,6-11,12-15,16-,17-19,-,20-,-,-
+258,1st,Mark Redman,Twins,280,'01,2,6,Starter,L,1-3,4-8,9-12,13-17,-,18-19,-,20-,-,-
+253,1st,Matt Lawton,Twins,300,'01,9,A,LF-RF+0,L,-,-,1-3,-,4-9,10-15,16-,17-19,-,20+
+254,1st,Matt LeCroy,Twins,110,'01,6,C,C+5,R,-,1-2,-,3-4,5-9,10-14,-,15-,16-,17-20
+246,1st,Ron Coomer,Twins,130,'01,7,B,1B+1,R,-,-,1-3,4-,5-6,7-16,-,17-18,-,19-20
+250,1st,Torii Hunter,Twins,160,'01,7,B,"CF+3, LF-RF+2",R,-,1-2,3-4,-,5-,6-15,16-,17-,18-19,20+
+164,1st,*David Wells,White Sox,460,'01,5,07,Starter,L,1-3,4-7,8-12,13-15,-,16-19,-,20-,-,-
+59,1st,*Joe Crede,White Sox,140,'01,7,C,3B+1,R,-,1-2,-,3-,4-6,7-16,-,17-,-,18-20
+63,1st,*Jon Garland,White Sox,270,'01,2,6,Starter,R,1-8,9-11,12-15,16-17,18-,19-,-,20-,-,-
+18,1st,*Jose Valentin,White Sox,400,'01,8,A,"SS+3, OF+1",S,-,1-2,-,3-4,5-8,9-12,13-,14-16,17-,18-20
+139,1st,*Kip Wells,White Sox,160,'01,4,5,Starter,R,1-2,3-6,7-11,12-14,15-16,17-19,-,20-,-,-
+160,1st,*Royce Clayton,White Sox,150,'01,7,B,SS+3,R,-,1-,2-4,5-,6-8,9-15,16-,17-,18-,19-20
+35,1st,*Sandy Alomar Jr.,White Sox,130,'01,7,C,C+3,R,-,-,1-2,3-,-,4-15,-,16-18,-,19-20
+104,1st,Bill Simas,White Sox,90,'01,2,1,Reliever,R,1-3,4-7,8-12,13-17,-,18-19,-,20-,-,-
+96,1st,Bob Howry,White Sox,200,'01,4,1,Reliever,R,1-3,4-8,9-13,14-16,17-18,19-20,-,-,-,-
+100,1st,Carlos Lee,White Sox,260,'01,8,B,LF-RF+1,R,-,1-,2-3,4-,5-6,7-14,15-,16-17,-,18-20
+97,1st,Charles Johnson,White Sox,460,'01,9,B,C+6,R,-,1-3,4-,-,5-8,9-14,-,15-16,-,17-20
+97,UL,Charles Johnson,White Sox,460,'01,9,B,C+6,R,-,1-3,4-,-,5-8,9-14,-,15-16,-,17-20
+105,1st,Chris Singleton,White Sox,160,'01,7,A,"CF+2, LF-RF+1",L,-,1-,2-5,6-,7-,8-14,15-16,17-,18-,19-20
+107,1st,Frank Thomas,White Sox,440,'01,10,C,---,R,-,1-,-,2-3,4-9,10-14,-,15-17,-,18-20
+107,P,Frank Thomas,White Sox,440,'01,10,C,---,R,-,1-,-,2-3,4-9,10-14,-,15-17,-,18-20
+107,UL,Frank Thomas,White Sox,440,'01,10,C,---,R,-,1-,-,2-3,4-9,10-14,-,15-17,-,18-20
+103,1st,Hebert Perry,White Sox,240,'01,8,B,3B+2,R,-,1-2,3-4,-,5-6,7-15,-,16-18,-,19-20
+93,1st,James Baldwin,White Sox,350,'01,4,6,Starter,R,1-3,4-7,8-13,14-16,17-,18-19,-,-,-,20+
+102,1st,Jim Parque,White Sox,350,'01,5,6,Starter,L,1-2,3-5,6-11,12-14,15-16,17-19,-,20-,-,-
+108,1st,Jose Valentin,White Sox,390,'01,8,A,SS+3,S,-,1-2,-,3-4,5-8,9-12,13-,14-16,17-,18-20
+95,1st,Keith Foulke,White Sox,270,'01,4,1,Closer,R,1-3,4-9,10-13,14-17,18-,19-20,-,-,-,-
+95,UL,Keith Foulke,White Sox,270,'01,4,1,Closer,R,1-3,4-9,10-13,14-17,18-,19-20,-,-,-,-
+109,1st,Kelly Wunsch,White Sox,230,'01,4,1,Reliever,L,1-,2-6,7-14,15-16,17-18,19-20,-,-,-,-
+101,1st,Magglio Ordonez,White Sox,420,'01,9,A,LF-RF+1,R,-,-,1-2,3-4,5-7,8-14,15-,16-17,-,18-20
+98,1st,Mark L. Johnson,White Sox,100,'01,7,B,C+8,L,-,1-,2-,3-4,5-11,12-17,18-,19-,-,20+
+106,1st,Mike Sirotka,White Sox,390,'01,2,6,Starter,L,1-3,4-7,8-14,15-17,18-,19-20,-,-,-,-
+99,1st,Paul Konerko,White Sox,250,'01,9,C,1B+0,R,-,-,1-3,4-5,6-9,10-16,-,17-18,-,19-20
+94,1st,Ray Durham,White Sox,360,'01,9,A,2B+3,S,-,1-,2-4,5-,6-10,11-15,16-,17-18,19-,20+
+82,1st,*Alfonso Soriano,Yankees,110,'01,6,A,2B+2,R,-,1-4,-,5-,-,6-12,13-,14-17,18-,19-20
+99,1st,*DAngelo Jiminez,Yankees,90,'01,7,B,"SS+2, 2B+0",S,-,1-3,4-,5-,6-10,11-18,-,-,19-,20+
+157,1st,*Luis Sojo,Yankees,180,'01,7,B,"2B+4, 3B+1",R,-,-,1-3,4-5,-,6-15,-,16-18,-,19-20
+173,1st,*Mike Mussina,Yankees,470,'01,3,07,Starter,R,1-,2-7,8-14,15-17,-,18-19,-,20-,-,-
+116,1st,*Mike Stanton,Yankees,160,'01,4,1,Reliever,L,1-3,4-9,10-13,14-16,17-,18-19,-,20-,-,-
+50,1st,*Ramiro Mendoza,Yankees,290,'01,4,2,Reliever,R,1-2,3-5,6-12,13-16,-,7-19,-,20-,-,-
+80,1st,*Randy Keisler,Yankees,210,'01,3,6,Starter,L,1-3,4-6,7-11,12-15,16-17,18-19,-,20-,-,-
+302,1st,Andy Pettitte,Yankees,400,'01,2,6,Starter,L,1-3,4-6,7-14,15-17,18-,19-20,-,-,-,-
+306,1st,Bernie Williams,Yankees,430,'01,9,B,OF+1,S,-,-,1-4,-,5-8,9-13,14-,15-16,17-,18-20
+306,UL,Bernie Williams,Yankees,430,'01,9,B,OF+1,S,-,-,1-4,-,5-8,9-13,14-,15-16,17-,18-20
+297,1st,Chuck Knoblauch,Yankees,200,'01,9,A,2B+0,R,-,-,1-3,4-5,6-10,11-17,18-,19-20,-,-
+296,1st,Dave Justice,Yankees,420,'01,9,B,LF-RF+1,L,-,1-,2-3,4-,5-10,11-14,-,15-16,-,17-20
+296,P,Dave Justice,Yankees,420,'01,9,B,LF-RF+1,L,-,1-,2-3,4-,5-10,11-14,-,15-16,-,17-20
+299,1st,Denny Neagle,Yankees,280,'01,2,6,Starter,L,1-4,5-8,9-12,13-17,18-,19-,-,20-,-,-
+295,1st,Derek Jeter,Yankees,410,'01,10,A,SS+1,R,-,1-,2-3,4-,5-8,9-16,17-,18-19,-,20+
+295,UL,Derek Jeter,Yankees,410,'01,10,A,SS+1,R,-,1-,2-3,4-,5-8,9-16,17-,18-19,-,20+
+293,1st,Jason Grimsley,Yankees,120,'01,4,1,Reliever,R,1-2,3-5,6-12,13-15,16-17,18-19,-,20-,-,-
+300,1st,Jeff Nelson,Yankees,220,'01,6,1,Reliever,R,1-2,3-8,9-12,13-15,16-18,19-,-,20-,-,-
+303,1st,Jorge Posada,Yankees,430,'01,10,C,C+6,S,-,1-4,-,-,5-12,13-16,-,17-18,-,19-20
+305,1st,Jose Vizcaino,Yankees,80,'01,7,B,2B+4,S,-,1-,2-5,6-,7-8,9-18,19-,-,20-,-
+304,1st,Mariano Rivera,Yankees,300,'01,6,1,Closer,R,1-3,4-7,8-13,14-16,17-,18-19,-,20-,-,-
+304,UL,Mariano Rivera,Yankees,300,'01,6,1,Closer,R,1-3,4-7,8-13,14-16,17-,18-19,-,20-,-,-
+294,1st,Orlando Hernandez,Yankees,290,'01,3,07,Starter,R,1-4,5-8,9-12,13-17,-,18-,-,19-,-,20+
+301,1st,Paul O'Neill,Yankees,200,'01,8,B,LF-RF+2,L,-,-,1-4,5-,6-8,9-16,17-,18-,-,19-20
+292,1st,Roger Clemens,Yankees,350,'01,2,6,Starter,R,1-3,4-8,9-13,14-17,18-19,20-,-,-,-,-
+292,AP,Roger Clemens,Yankees,350,'01,2,6,Starter,R,1-3,4-8,9-13,14-17,18-19,20-,-,-,-,-
+292,UL,Roger Clemens,Yankees,350,'01,2,6,Starter,R,1-3,4-8,9-13,14-17,18-19,20-,-,-,-,-
+291,1st,Scott Brosius,Yankees,100,'01,6,C,3B+3,R,-,-,1-,2-3,4-8,9-15,-,16-17,-,18-20
+298,1st,Tino Martinez,Yankees,130,'01,7,B,1B+0,L,-,-,1-2,3-4,5-7,8-14,-,15-17,18-,19-20
