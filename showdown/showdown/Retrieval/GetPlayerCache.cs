@@ -31,26 +31,25 @@ namespace showdown.Retrieval
         private GetPlayerCache(CardSetVersion cardSetVersion)
         {
             CardSetVersion = cardSetVersion;
-            PlayerCardCache = null;
-            
+            PlayerCardCache = DeserializeCSV.Deserialize(cardSetVersion);
         }
 
         #endregion
 
         #region Player Retrieval
 
-        private static DeserializeCSV DeserializeCSV;
+        private static DeserializeCSV DeserializeCSV = new DeserializeCSV();
         private CardSetVersion CardSetVersion;
         private List<PlayerCardCSV> PlayerCardCache;
 
-        public static PlayerCardCSV GetPlayer(CardSetVersion cardSet, string name)
+        public static PlayerCardCSV? GetPlayer(CardSetVersion cardSet, string name)
         {
-            return new PlayerCardCSV();
+            return CheckInstance(cardSet)?.PlayerCardCache?.FirstOrDefault(x => x.Name == name);
         }
 
         public static List<PlayerCardCSV> GetSet(CardSetVersion cardSet)
         {
-            return new List<PlayerCardCSV>();
+            return CheckInstance(cardSet).PlayerCardCache;
         }
         #endregion Player
     }
