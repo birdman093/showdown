@@ -5,10 +5,6 @@ using showdown.Retrieval;
 
 namespace showdown.Player
 {
-    public class DieCard
-    {
-
-    }
 
 	public class BatterGameCard: IGameCard
 	{
@@ -19,7 +15,7 @@ namespace showdown.Player
         public List<Position> Positions { get; private set; }
         public Dictionary<Position, int> Fielding { get; private set; }
         public BatSide BatSide { get; private set; }
-
+        public List<DiceRoll> DieCard { get; private set; }
 
 		public BatterGameCard(PlayerCardCSV playerCard)
 		{
@@ -28,13 +24,74 @@ namespace showdown.Player
             Speed = ParseSpeed(playerCard.Spd_IP);
             ParsePositions(playerCard.Pos);
             BatSide = ParseSide(playerCard.H);
+            ParseDieCard(playerCard);
+        }
+
+        public void ParseDieCard(PlayerCardCSV playerCard)
+        {
+
+            DieCard = new List<DiceRoll>
+            {
+                DiceRoll.NONE
+            };
+
+
+            var diceRollDict = playerCard.GetDiceDictionary();
+            foreach(DiceRoll diceRoll in Dice.Order)
+            {
+                setRange(diceRoll, ParseRange(diceRollDict[diceRoll]));
+            }
             
 
-		}
+        }
+
+        public Tuple<int, int> ParseRange(string input)
+        {
+            input.Trim();
+            input.Replace("+", "");
+            string[] parts = input.Split('-');
+            int start = 0;
+            int end = 0;
+
+            if (parts.Length == 1)
+            {
+                start = int.Parse(parts[0]);
+                end = start;
+            }
+            else if (parts.Length == 2)
+            {
+                start = int.Parse(parts[0]);
+                end = int.Parse(parts[1]);
+            }
+
+            return new Tuple<int, int>(start, end);
+        }
+
+        public void setRange(DiceRoll diceRoll, Tuple<int,int> range)
+        {
+            if (range.Item1 == 0 || range.Item2 == 0
+                || range.Item1 > range.Item2)
+            {
+                return;
+            }
+
+            if (DieCard.Count != range.Item1)
+            {
+                throw new InvalidCSVException();
+            }
+
+            int setRange = range.Item2 - range.Item1 + 1;
+
+            for (int idx = 0; idx < setRange; idx++)
+            {
+                DieCard.Add(diceRoll);
+            }
+        }
+
 
         public BatSide ParseSide(string h)
         {
-            h = h.ToLower();
+            h = h.ToLower().Trim();
 
             if (h == "r" || h == "right")
             {
@@ -52,11 +109,13 @@ namespace showdown.Player
 
         public int ParseSpeed(string speed)
         {
-            if (speed.ToUpper() == "A")
+            speed = speed.ToUpper().Trim();
+
+            if (speed == "A")
             {
                 return 20;
             }
-            else if (speed.ToUpper() == "B")
+            else if (speed == "B")
             {
                 return 15;
             }
@@ -69,9 +128,37 @@ namespace showdown.Player
 
         public void ParsePositions(string position)
         {
-            Positions = null;
-            Fielding = null;
+            // Test Cases -> Pos: OF+0, Pos: 1B,  LF-RF+2, CF+3, LF-RF+2
+            Positions = new List<Position>();
+            Fielding = new Dictionary<Position, int>();
 
+            string[] parts = position.Split(',');
+
+            foreach (string part in parts)
+            {
+                // fielding Value
+                part.Trim();
+                string[] parts2 = part.Split('+');
+                int fieldingValue = 0;
+                if (parts2.Length == 2)
+                {
+                    int.TryParse(parts2[1], out fieldingValue);
+                }
+
+                string[] positions = parts2[0].Split("-");
+                foreach (string postion in positions)
+                {
+                    position.Trim();
+                    Enum.TryParse(position, true, out Position result);
+                    Fielding[result] = fieldingValue; 
+                }
+
+            }
+        }
+
+        public string ToString()
+        {
+            return $"Die Card {DieCard} - Fielding {Fielding}";
         }
 
 	}
@@ -89,6 +176,11 @@ namespace showdown.Player
         {
             return 0;
         }
+
+    }
+
+    public class InvalidCSVException : Exception
+    {
 
     }
 }

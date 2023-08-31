@@ -11,6 +11,7 @@ namespace showdown.Player
         public CardSetVersion CardSetVersion { get; private set; }
         public IGameCard GameCard { get; private set; }
 
+        //TODO: pass correct name to name and team
         public Batter(string name, string team, CardSetVersion cardSetVersion,
             BatterGameCard gameCard)
         {
@@ -18,6 +19,11 @@ namespace showdown.Player
             Team = team;
             CardSetVersion = cardSetVersion;
             GameCard = gameCard;
+        }
+
+        public override string ToString()
+        {
+            return $"{Name}-{Team}-{CardSetVersion}-{GameCard}";
         }
 	}
 }

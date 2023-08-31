@@ -1,6 +1,7 @@
 ﻿// Testing Console
 using showdown.Retrieval;
 using showdown.Utility;
+using showdown.Player;
 
 Console.WriteLine("Hello, World!");
 
@@ -9,7 +10,9 @@ List<PlayerCardCSV> playercards = deserializeCSV.Deserialize(CardSetVersion.Base
 
 foreach (PlayerCardCSV playerCardCSV in playercards)
 {
-    Console.WriteLine(playerCardCSV.ToString());
+    IPlayer player = PlayerFactory.CreatePlayer(playerCardCSV, CardSetVersion.Base00);
+    Console.WriteLine(player.ToString());
+    
 }
 
 Thread.Sleep(5000);

@@ -1,4 +1,5 @@
 ﻿using System;
+using showdown.Utility;
 
 namespace showdown.Retrieval
 {
@@ -29,6 +30,23 @@ namespace showdown.Retrieval
         {
                 
         }
+
+        public Dictionary<DiceRoll, string> GetDiceDictionary()
+        {
+            return new Dictionary<DiceRoll, string> {
+                { DiceRoll.PU, this.PU },
+                { DiceRoll.SO, this.SO },
+                { DiceRoll.GB, this.GB },
+                { DiceRoll.FB, this.FB },
+                { DiceRoll.W, this.W },
+                { DiceRoll.S, this.S},
+                { DiceRoll.SPlus, this.SPlus},
+                { DiceRoll.DB, this.DB},
+                { DiceRoll.TR, this.TR},
+                { DiceRoll.HR, this.HR}
+            };
+        }
+
         public override string ToString()
         {
             return $"SetNumber: {SetNumber}, Set: {Set}, Name: {Name}, " +

@@ -22,7 +22,8 @@ namespace showdown.Player
 		{
 			if (PitcherNames.Contains(playerCard.Pos.Trim()))
 			{
-				return PitcherFactory.CreatePlayer(playerCard, cardSetVersion);
+				//return PitcherFactory.CreatePlayer(playerCard, cardSetVersion);
+				throw new NotImplementedException();
 			}
 			else
 			{
@@ -37,13 +38,13 @@ namespace showdown.Player
 		public static Batter CreatePlayer(PlayerCardCSV playerCard,
 			CardSetVersion cardSetVersion)
 		{
-			// TODO: Game Card 
+			BatterGameCard batterGameCard = new BatterGameCard(playerCard);
 
 			return new Batter(
 				playerCard.Name,
 				playerCard.Team,
 				cardSetVersion,
-				null
+				batterGameCard
 				);
 		}
 	}

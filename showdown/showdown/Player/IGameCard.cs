@@ -5,7 +5,7 @@ namespace showdown.Player
 {
 	public interface IGameCard
 	{
-
+		string ToString();
 	}
 }
 
