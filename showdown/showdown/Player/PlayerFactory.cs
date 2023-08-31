@@ -23,7 +23,7 @@ namespace showdown.Player
 			if (PitcherNames.Contains(playerCard.Pos.Trim()))
 			{
 				//return PitcherFactory.CreatePlayer(playerCard, cardSetVersion);
-				throw new NotImplementedException();
+				return null;
 			}
 			else
 			{

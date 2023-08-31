@@ -11,8 +11,10 @@ List<PlayerCardCSV> playercards = deserializeCSV.Deserialize(CardSetVersion.Base
 foreach (PlayerCardCSV playerCardCSV in playercards)
 {
     IPlayer player = PlayerFactory.CreatePlayer(playerCardCSV, CardSetVersion.Base00);
-    Console.WriteLine(player.ToString());
-    
+    if (player != null)
+    {
+        //Console.WriteLine(player.ToString());
+    }   
 }
 
 Thread.Sleep(5000);

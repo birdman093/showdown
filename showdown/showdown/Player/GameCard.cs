@@ -16,9 +16,11 @@ namespace showdown.Player
         public Dictionary<Position, int> Fielding { get; private set; }
         public BatSide BatSide { get; private set; }
         public List<DiceRoll> DieCard { get; private set; }
+        private PlayerCardCSV PlayerCard;
 
 		public BatterGameCard(PlayerCardCSV playerCard)
 		{
+            PlayerCard = playerCard;
             Points = int.Parse(playerCard.Pts);
             OnBase = int.Parse(playerCard.OB_C);
             Speed = ParseSpeed(playerCard.Spd_IP);
@@ -29,7 +31,6 @@ namespace showdown.Player
 
         public void ParseDieCard(PlayerCardCSV playerCard)
         {
-
             DieCard = new List<DiceRoll>
             {
                 DiceRoll.NONE
@@ -47,9 +48,10 @@ namespace showdown.Player
 
         public Tuple<int, int> ParseRange(string input)
         {
-            input.Trim();
-            input.Replace("+", "");
+            input = input.Trim();
+            input = input.Replace("+", "");
             string[] parts = input.Split('-');
+            parts = Array.FindAll(parts, part => !string.IsNullOrEmpty(part));
             int start = 0;
             int end = 0;
 
@@ -75,12 +77,15 @@ namespace showdown.Player
                 return;
             }
 
+            int modifyStart = range.Item1;
             if (DieCard.Count != range.Item1)
             {
-                throw new InvalidCSVException();
+                modifyStart = DieCard.Count;
+                Console.WriteLine($"Invalid Chart: {PlayerCard.Name} - {DieCard.Count} != {range.Item1}");
+                //throw new InvalidCSVException(PlayerCard.Name);
             }
 
-            int setRange = range.Item2 - range.Item1 + 1;
+            int setRange = range.Item2 - modifyStart + 1;
 
             for (int idx = 0; idx < setRange; idx++)
             {
@@ -181,7 +186,10 @@ namespace showdown.Player
 
     public class InvalidCSVException : Exception
     {
-
+        public InvalidCSVException(string message) : base(message)
+        {
+                  
+        }
     }
 }
 
