@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using showdown.Utility;
 using showdown.Retrieval;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Reflection;
 
 namespace showdown.Player
 {
@@ -16,83 +18,16 @@ namespace showdown.Player
         public Dictionary<Position, int> Fielding { get; private set; }
         public BatSide BatSide { get; private set; }
         public List<DiceRoll> DieCard { get; private set; }
-        private PlayerCardCSV PlayerCard;
 
 		public BatterGameCard(PlayerCardCSV playerCard)
 		{
-            PlayerCard = playerCard;
             Points = int.Parse(playerCard.Pts);
             OnBase = int.Parse(playerCard.OB_C);
             Speed = ParseSpeed(playerCard.Spd_IP);
             ParsePositions(playerCard.Pos);
             BatSide = ParseSide(playerCard.H);
-            ParseDieCard(playerCard);
+            DieCard = DieParser.ParseDieCard(playerCard);
         }
-
-        public void ParseDieCard(PlayerCardCSV playerCard)
-        {
-            DieCard = new List<DiceRoll>
-            {
-                DiceRoll.NONE
-            };
-
-
-            var diceRollDict = playerCard.GetDiceDictionary();
-            foreach(DiceRoll diceRoll in Dice.Order)
-            {
-                setRange(diceRoll, ParseRange(diceRollDict[diceRoll]));
-            }
-            
-
-        }
-
-        public Tuple<int, int> ParseRange(string input)
-        {
-            input = input.Trim();
-            input = input.Replace("+", "");
-            string[] parts = input.Split('-');
-            parts = Array.FindAll(parts, part => !string.IsNullOrEmpty(part));
-            int start = 0;
-            int end = 0;
-
-            if (parts.Length == 1)
-            {
-                start = int.Parse(parts[0]);
-                end = start;
-            }
-            else if (parts.Length == 2)
-            {
-                start = int.Parse(parts[0]);
-                end = int.Parse(parts[1]);
-            }
-
-            return new Tuple<int, int>(start, end);
-        }
-
-        public void setRange(DiceRoll diceRoll, Tuple<int,int> range)
-        {
-            if (range.Item1 == 0 || range.Item2 == 0
-                || range.Item1 > range.Item2)
-            {
-                return;
-            }
-
-            int modifyStart = range.Item1;
-            if (DieCard.Count != range.Item1)
-            {
-                modifyStart = DieCard.Count;
-                Console.WriteLine($"Invalid Chart: {PlayerCard.Name} - {DieCard.Count} != {range.Item1}");
-                //throw new InvalidCSVException(PlayerCard.Name);
-            }
-
-            int setRange = range.Item2 - modifyStart + 1;
-
-            for (int idx = 0; idx < setRange; idx++)
-            {
-                DieCard.Add(diceRoll);
-            }
-        }
-
 
         public BatSide ParseSide(string h)
         {
@@ -170,16 +105,53 @@ namespace showdown.Player
 
     public class PitcherGameCard : IGameCard
     {
+        public int Points { get; private set; }
+        public int Control { get; private set; }
+        public int Innings { get; private set; }
+        public List<Position> Positions { get; private set; }
+        public Dictionary<Position, int> Fielding { get; private set; }
+        public PitchSide PitchSide { get; private set; }
+        public List<DiceRoll> DieCard { get; private set; }
+        private PlayerCardCSV PlayerCard;
 
-
-        public PitcherGameCard(string cardResults)
+        public PitcherGameCard(PlayerCardCSV playerCard)
         {
+            PlayerCard = playerCard;
+            Points = int.Parse(playerCard.Pts);
+            Control = int.Parse(playerCard.OB_C);
+            Innings = int.Parse(playerCard.Spd_IP);
+            ParsePositions(playerCard.Pos);
+            PitchSide = ParseSide(playerCard.H);
+            DieCard = DieParser.ParseDieCard(playerCard);
         }
 
-
-        public int maxValue()
+        public void ParsePositions(string position)
         {
-            return 0;
+            Positions = new List<Position> { Position.P };
+
+        }
+
+        public PitchSide ParseSide(string h)
+        {
+            h = h.ToLower().Trim();
+
+            if (h == "r" || h == "right")
+            {
+                return PitchSide.Right;
+            }
+            else if (h == "l" || h == "left")
+            {
+                return PitchSide.Left;
+            }
+            else
+            {
+                return PitchSide.Right;
+            }
+        }
+
+        public string ToString()
+        {
+            return $"Die Card {DieCard} - Fielding {Fielding}";
         }
 
     }

@@ -22,8 +22,7 @@ namespace showdown.Player
 		{
 			if (PitcherNames.Contains(playerCard.Pos.Trim()))
 			{
-				//return PitcherFactory.CreatePlayer(playerCard, cardSetVersion);
-				return null;
+				return PitcherFactory.CreatePlayer(playerCard, cardSetVersion);
 			}
 			else
 			{
@@ -54,11 +53,13 @@ namespace showdown.Player
         public static Pitcher CreatePlayer(PlayerCardCSV playerCard,
 			CardSetVersion cardSetVersion)
         {
+            PitcherGameCard pitcherGameCard = new PitcherGameCard(playerCard);
+
             return new Pitcher(
                 playerCard.Name,
                 playerCard.Team,
                 cardSetVersion,
-                null
+                pitcherGameCard
                 );
         }
 

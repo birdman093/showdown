@@ -18,6 +18,11 @@ namespace showdown.Player
             CardSetVersion = cardSetVersion;
             GameCard = gameCard;
         }
+
+        public override string ToString()
+        {
+            return $"{Name}-{Team}-{CardSetVersion}-{GameCard}";
+        }
     }
 }
 
