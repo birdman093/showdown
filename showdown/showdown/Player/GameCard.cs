@@ -77,8 +77,8 @@ namespace showdown.Player
             foreach (string part in parts)
             {
                 // fielding Value
-                part.Trim();
-                string[] parts2 = part.Split('+');
+                string partTrim = part.Trim();
+                string[] parts2 = partTrim.Split('+');
                 int fieldingValue = 0;
                 if (parts2.Length == 2)
                 {
@@ -86,19 +86,36 @@ namespace showdown.Player
                 }
 
                 string[] positions = parts2[0].Split("-");
-                foreach (string postion in positions)
+                foreach (string positionSplit in positions)
                 {
-                    position.Trim();
-                    Enum.TryParse(position, true, out Position result);
-                    Fielding[result] = fieldingValue; 
+                    string positionTrim = positionSplit.Trim();
+                    Position result = PositionInfo.ParsePositionPlayer(positionTrim);
+                    if (result != Position.DH)
+                    {
+                        Fielding[result] = fieldingValue;
+                    }
                 }
 
             }
         }
 
-        public string ToString()
+        public override string ToString()
         {
-            return $"Die Card {DieCard} - Fielding {Fielding}";
+            List<string> diceString = new List<string>();
+            for (int idx = 0; idx < DieCard.Count; idx++)
+            {
+                diceString.Add($"{idx}:{DieCard[idx]}");
+
+            }
+            List<string> fieldString = new List<string>();
+            foreach (Position position in Fielding.Keys.ToList())
+            {
+                fieldString.Add($"{PositionInfo.PositionToString[position]} + {Fielding[position]}");
+            }
+
+
+            return $"Die Card {string.Join(';', diceString)} - " +
+                $"Fielding {string.Join(';', fieldString)}";
         }
 
 	}
@@ -112,11 +129,9 @@ namespace showdown.Player
         public Dictionary<Position, int> Fielding { get; private set; }
         public PitchSide PitchSide { get; private set; }
         public List<DiceRoll> DieCard { get; private set; }
-        private PlayerCardCSV PlayerCard;
 
         public PitcherGameCard(PlayerCardCSV playerCard)
         {
-            PlayerCard = playerCard;
             Points = int.Parse(playerCard.Pts);
             Control = int.Parse(playerCard.OB_C);
             Innings = int.Parse(playerCard.Spd_IP);
@@ -149,9 +164,16 @@ namespace showdown.Player
             }
         }
 
-        public string ToString()
+        public override string ToString()
         {
-            return $"Die Card {DieCard} - Fielding {Fielding}";
+            List<string> diceString = new List<string>();
+            for (int idx = 0; idx < DieCard.Count; idx++)
+            {
+                diceString.Add($"{idx}:{DieCard[idx]}");
+
+            }
+
+            return $"Die Card {string.Join(';', diceString)} - IP {Innings}";
         }
 
     }

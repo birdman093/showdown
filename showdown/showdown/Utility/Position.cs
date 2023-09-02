@@ -4,15 +4,15 @@ using System.Runtime.InteropServices;
 namespace showdown.Utility
 {
 	public enum Position{
-		C,
-		FirstBase,
-		SecondBase,
+        DH,
+        C,
+		_1B,
+		_2B,
 		SS,
-		ThirdBase,
+		_3B,
 		LF,
 		RF,
 		CF,
-		DH,
 		P
 	}
 
@@ -20,13 +20,13 @@ namespace showdown.Utility
     public class PositionInfo
     {
 
-        public static Dictionary<Position, string> PositionToStringShort =
+        public static Dictionary<Position, string> PositionToString =
         new Dictionary<Position, string> {
             { Position.C, "C"},
-            { Position.FirstBase, "1B"},
-            { Position.SecondBase, "2B"},
+            { Position._1B, "1B"},
+            { Position._2B, "2B"},
             { Position.SS, "SS"},
-            { Position.ThirdBase, "3B"},
+            { Position._3B, "3B"},
             { Position.LF, "LF"},
             { Position.RF, "RF"},
             { Position.CF, "CF"},
@@ -37,16 +37,29 @@ namespace showdown.Utility
         public static Dictionary<Position, string> PositionToStringLong =
             new Dictionary<Position, string> {
             { Position.C, "Catcher"},
-            { Position.FirstBase, "First Base"},
-            { Position.SecondBase, "Second Base"},
+            { Position._1B, "First Base"},
+            { Position._2B, "Second Base"},
             { Position.SS, "Shortstop"},
-            { Position.ThirdBase, "Third Base"},
+            { Position._3B, "Third Base"},
             { Position.LF, "Left Field"},
             { Position.RF, "Right Field"},
             { Position.CF, "Center Field"},
             { Position.DH, "Designated Hitter"},
             { Position.P, "Pitcher"}
             };
+
+        public static Position ParsePositionPlayer(string position)
+        {
+            //Handle 1B, 2B, 3B
+            string modPosition = position;
+            if (!string.IsNullOrEmpty(position) && char.IsDigit(position[0]))
+            {
+                modPosition = "_" + modPosition;
+            }
+
+            Enum.TryParse(modPosition, true, out Position result);
+            return result;
+        }
 
         public string PositionDisplay(Position cardSet, bool longName = false)
         {
@@ -69,9 +82,9 @@ namespace showdown.Utility
 
         public string PositionShortName(Position cardSet)
         {
-            if (PositionToStringShort.ContainsKey(cardSet))
+            if (PositionToString.ContainsKey(cardSet))
             {
-                return PositionToStringShort[cardSet];
+                return PositionToString[cardSet];
             }
             else
             {
