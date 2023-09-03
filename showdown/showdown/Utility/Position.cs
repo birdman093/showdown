@@ -16,7 +16,6 @@ namespace showdown.Utility
 		P
 	}
 
-
     public class PositionInfo
     {
 
