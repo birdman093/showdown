@@ -10,6 +10,7 @@ namespace showdown.Player
         string Team { get; }
         CardSetVersion CardSetVersion { get; }
         IGameCard GameCard { get;  }
+        bool Selected { get; set; }
         string ToString();
     }
 }
