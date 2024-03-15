@@ -36,4 +36,5 @@
 .navBar-icon {
   max-width: 40px;
   height: auto;
+  border-radius: 10px;
 }

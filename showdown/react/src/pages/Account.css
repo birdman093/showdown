@@ -1,4 +1,12 @@
-.AccountContainer {
+.App-logo {
+  width: 150px;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.account-input-container {
     width: 300px;
     padding: 20px;
     background-color: var(--header-bg-color);
