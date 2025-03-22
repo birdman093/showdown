@@ -4,7 +4,9 @@ import { CreateConnection, SendConnectionMessage, ReceiveConnectionMessages } fr
 import './Account.css';
 import { HubConnection } from '@microsoft/signalr';
 
-function Account() {
+export const ACCOUNT_ROUTE = '/';
+
+export function Account() {
     const {user, SetUserContext, ConnectionStatusMessage, SetUserContextHistory} = useUser();
     const [username, setusername] = useState('user1234');
     const [groupname, setgroupname] = useState('group1234');
@@ -69,5 +71,3 @@ function Account() {
         </div>
     )
 }
-
-export default Account;

@@ -4,7 +4,9 @@ import { SendConnectionMessage } from '../components/CreateGame';
 import './Chat.css';
 import { HubConnection } from '@microsoft/signalr';
 
-function Chat() {
+export const CHAT_ROUTE = '/chat';
+
+export function Chat() {
     const {user, SetUserContext, ConnectionStatusMessage, SetUserContextHistory} = useUser();
     const [status, setstatus] = useState('');
     const [counter, setcounter] = useState(0);
@@ -45,5 +47,3 @@ function Chat() {
         </div>
     )
 }
-
-export default Chat;
