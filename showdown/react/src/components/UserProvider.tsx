@@ -1,68 +1,45 @@
-import React, { createContext, useContext, useState, ReactNode } from 'react';
+import React, { createContext, useContext, useState } from 'react';
+import { HubConnection } from '@microsoft/signalr';
 
-export type User = {
+// Define and export User interface
+export interface User {
     username: string;
-    groupname: string;
-    history: string[];
-    connection: signalR.HubConnection | null;
-};
+    draftId: string;
+    history: any[];
+    connection: HubConnection | null;
+}
 
-type UserContextType = {
+interface UserContextType {
     user: User;
     SetUserContext: (user: User) => void;
     ConnectionStatusMessage: () => string;
-    SetUserContextHistory: (message: string) => void;
-};
-
-type UserProviderChildren = {
-    children: ReactNode;
-};
+    SetUserContextHistory: (history: any[]) => void;
+}
 
 const UserContext = createContext<UserContextType | undefined>(undefined);
 
-export function UserProvider({ children } : UserProviderChildren) {
+export function UserProvider({ children }: { children: React.ReactNode }) {
     const [user, setUser] = useState<User>({
         username: '',
-        groupname: '',
+        draftId: '',
         history: [],
         connection: null
     });
 
+    const SetUserContext = (userData: User) => {
+        setUser(userData);
+    };
+
     const ConnectionStatusMessage = () => {
-        if (user.connection && user.connection.state == "Connected"){
-            return `${user.username} connected to ${user.groupname}`
-        } else {
-            return `No connection`
-        }
+        return user.connection ? 'Connected' : 'Disconnected';
     };
 
-    const SetUserContext = (user: User) => {
-        if (user && user.connection != null) 
-        {   setUser(user);
-        } else 
-        {   setUser({
-                username: user.username,
-                groupname: user.groupname,
-                history: [],
-                connection: null
-            });
-        }
-    };
-
-    const SetUserContextHistory = (message: string) => {
-        if (user && user.connection != null) 
-        {   setUser({
-                username: user.username,
-                groupname: user.groupname,
-                history: [...user.history, `${user.username}: ${message}`],
-                connection: user.connection
-            });
-        }
+    const SetUserContextHistory = (history: any[]) => {
+        setUser(prev => ({ ...prev, history }));
     };
 
     return (
-        <UserContext.Provider value={{ user, SetUserContext, 
-        ConnectionStatusMessage, SetUserContextHistory}}>
+        <UserContext.Provider value={{ user, SetUserContext, ConnectionStatusMessage, SetUserContextHistory }}>
             {children}
         </UserContext.Provider>
     );
@@ -70,8 +47,8 @@ export function UserProvider({ children } : UserProviderChildren) {
 
 export function useUser() {
     const context = useContext(UserContext);
-    if (!context) {
-        throw new Error("useUser must be used within a UserProvider");
+    if (context === undefined) {
+        throw new Error('useUser must be used within a UserProvider');
     }
     return context;
 }

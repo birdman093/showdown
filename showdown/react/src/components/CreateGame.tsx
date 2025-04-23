@@ -1,33 +1,50 @@
 import * as signalR from "@microsoft/signalr";
 import { AddressInUse } from "../config/ServerConfig";
-import {User, useUser} from './UserProvider'
+import { User } from './UserProvider';
 
-// Global Variable here -- i.e state?
-// Grab user Context with sending it to CreateConnection?
-
-export async function CreateConnection(username: string, groupname: string, grouppassword: string) {
+export async function CreateConnection(username: string, draftId: string, password: string): Promise<signalR.HubConnection> {
     const connection: signalR.HubConnection = new signalR.HubConnectionBuilder()
-    .withUrl(`${AddressInUse}/hub`)
-    .withAutomaticReconnect()
-    .build();
+        .withUrl(`${AddressInUse}/hub`, {
+            transport: signalR.HttpTransportType.WebSockets
+        })
+        .withAutomaticReconnect()
+        .build();
 
-    await connection.start().catch((err) => console.log(err));
+    try {
+        await connection.start();
+        
+        // Wait for the connection to be fully established
+        await new Promise((resolve, reject) => {
+            const interval = setInterval(() => {
+                if (connection.state === signalR.HubConnectionState.Connected) {
+                    clearInterval(interval);
+                    resolve(true);
+                } else if (connection.state === signalR.HubConnectionState.Disconnected) {
+                    clearInterval(interval);
+                    reject(new Error('Connection failed to establish'));
+                }
+            }, 100);
+        });
 
-    await connection.send("JoinGroup", username, groupname, grouppassword)
-        .then(() => (console.log("Joined Group")));
-
-    return connection;
+        console.log("Connection established");
+        await connection.invoke("JoinDraft", draftId, username);
+        console.log("Joined Draft");
+        return connection;
+    } catch (err) {
+        console.error("Failed to connect:", err);
+        throw new Error(`Connection error: ${err instanceof Error ? err.message : 'Unknown error'}`);
+    }
 }
 
-export async function SendConnectionMessage
-(connection: signalR.HubConnection, username: string, groupname: string, message: string){
-    await connection.send("NewMessage", username, groupname, message);
-    console.log("Message Sent");
+export async function SendConnectionMessage(connection: signalR.HubConnection, username: string, draftId: string, message: string): Promise<void> {
+    if (connection.state !== signalR.HubConnectionState.Connected) {
+        throw new Error("Connection is not in Connected state");
+    }
+    await connection.invoke("SendMessage", username, draftId, message);
 }
 
-export function ReceiveConnectionMessages(connection: signalR.HubConnection){
+export async function ReceiveConnectionMessages(connection: signalR.HubConnection): Promise<void> {
     connection.on("MessageReceived", (username: string, message: string) => {
-        // NEED TO LOG THIS!
-        console.log("Message Received: " + message);
+        console.log("Received Message:", username, message);
     });
 }

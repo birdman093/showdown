@@ -5,6 +5,7 @@ namespace showdown.Player
 {
 	public class Pitcher : IPlayer 
 	{
+        public string Id { get; private set; }
         public string Name { get; private set; }
         public string Team { get; private set; }
         public CardSetVersion CardSetVersion { get; private set; }
@@ -14,6 +15,7 @@ namespace showdown.Player
         public Pitcher(string name, string team, CardSetVersion cardSetVersion,
             PitcherGameCard gameCard)
         {
+            Id = name + team + cardSetVersion;
             Name = name;
             Team = team;
             CardSetVersion = cardSetVersion;
